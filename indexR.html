@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Web Speech API Test</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <script src="https://aframe.io/releases/0.6.0/aframe.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="text/javascript"></script>
+    <script src="libraries/p5.js" type="text/javascript"></script>
+    <script src="libraries/p5.dom.js" type="text/javascript"></script>
+    <script src="libraries/rita-full.js" type="text/javascript"></script>
+    <script src="setup.js" type="text/javascript"></script>
+    <script src="addrules.js" type="text/javascript"></script>
+    <script src="findelementJSON.js" type="text/javascript"></script>
+    <script src="textanalysis.js" type="text/javascript"></script>
+    <script src="sentimentanalysis.js" type="text/javascript"></script>
+    <script src="read.js" type="text/javascript"></script>
+    <script src="imgquery.js" type="text/javascript"></script>
+    <script src="soundquery.js" type="text/javascript"></script>
+    <script src="headlinesquery.js" type="text/javascript"></script>
+    <script src="createscene.js" type="text/javascript"></script>
+    <script src="currentlocation.js" type="text/javascript"></script>
+    <script src="infocountry_gender.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+
+    <div class="intro" id="intro">
+        <div class="intro__inner">
+            <div class="intro__icon">
+                <img src="media/iconshome.png">
+            </div>
+            <p class="intro__heading">STORY GENERATOR.<br>Reusing media for VR-360 storytelling</p>
+            <p class="intro__dek">Databases from NYT, Flickr, Freesound, ApiGender and World Bank.<br>Use your cardboard or computer.
+                <a href="https://www.google.com/chrome/" target="_blank"><img src="media/googleicon.png" class="top"></a href>
+            </p>
+            <button id="toggle-intro" class="button" onclick="start()">Start</button>
+        </div>
+    </div>
+
+
+
+    <a-scene id="vr" class="fullscreen" canvas="" inspector="" keyboard-shortcuts="" screenshot="" vr-mode-ui="">
+        <a-assets id="assets">
+            <a-asset-item id="mic-obj" src="media/mic/Mic1.obj"></a-asset-item>
+            <a-asset-item id="mic-mtl" src="media/mic/Mic1.mtl"></a-asset-item>
+            <img id="skyintro" src="media/equi_start.jpg">
+        </a-assets>
+
+
+
+        <a-camera position="0 0 0">
+        <a-entity cursor="fuse: true; fuseTimeout:900"
+          position="0 0 -1"
+          scale="0.02 0.02 0.02"
+          geometry="primitive: ring"
+          material="color: #E94E1B; shader: flat">
+          <a-animation begin="click" easing="ease-in" attribute="scale"
+               fill="backwards" from="0.05 0.05 0.05" to="0.01 0.01 0.01"></a-animation>
+          <a-animation begin="cursor-fusing" easing="ease-in" attribute="scale"
+               fill="backwards" from="0.02 0.02 0.02" to="0.05 0.05 0.05"></a-animation>
+          </a-entity>
+        </a-camera>
+
+
+        <a-entity id="micbox" position="0 0 4" rotation="0 0 0" visible="true">
+            <a-box id="box" color="#FFFFFF" material="opacity:0" geometry="width:8;height:8;depth:0.1" speechrecognition>
+                <a-entity id="mic" obj-model="obj: #mic-obj; mtl: #mic-mtl" color="#FFF000" position="0 -4.5 0" shadow="receive: false" scale="0.13 0.13 0.13"></a-entity>
+            </a-box>
+            <a-entity id="welcome" position="-15 2.8 -15.5" rotation="0 90 0" text="font: kelsonsans; anchor: center; width:12; color:#000000; wrapCount:30;
+            value:Hi! This is a system able to create different stories using your voice. Please speak in front of the microphone and answer the questions."></a-entity>
+            <a-entity id="alert" position="4.3 3.7 -15" rotation="0 0 0" text="font: kelsonsans; anchor: center; width:12; color:#000000; wrapCount:50;
+            value:"></a-entity>
+            <a-entity id="questions" position="0.6 2.5 -0.7" rotation="0 180 0" text=""></a-entity>
+            <a-entity id="atext" position="-1.7 3.1 -0.7" rotation="0 180 0" text="font: kelsonsans; wrapCount:30; baseline:top; anchor: center; width: 2; color:#000000; value: - ..."></a-entity>
+            <!-- <a-entity id="speak" position="-0.5 1.5 -0.3" rotation="0 180 0" text="font: kelsonsans; anchor: center; width: 3.5; color:#000000; value:Speak!"></a-entity> -->
+            <a-circle id="reccircle" color="#FF0000" material="opacity:0" rotation="0 180 0" position="1.5 1.2 -0.3" radius="0.02">
+              <a-animation attribute="radius" to="0.04" easing="ease-in-out" direction="alternate" repeat="indefinite"></a-animation>
+            </a-circle>
+        </a-entity
+
+
+        <a-entity light="type: point;
+                   castShadow: true;
+                   intensity: 0.7;"
+                   position="0 5 -7">
+        </a-entity>
+
+        <a-sky id="sky" src="#skyintro" material="opacity:1" rotation="0 -48 0"></a-sky>
+
+    </a-scene>
+
+    <!-- Loading speech JS to recognize voice -->
+    <script src="speechrecogn.js"></script>
+    <script src="intro.js" type="text/javascript"></script>
+</body>
+
+</html>

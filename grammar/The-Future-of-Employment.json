@@ -1,0 +1,4916 @@
+[
+ {
+   "Rank": 1,
+   "Probability": 0.0028,
+   "Label": null,
+   "SOC_code": "29-1125",
+   "Occupation": "Recreational Therapists"
+ },
+ {
+   "Rank": 2,
+   "Probability": 0.003,
+   "Label": null,
+   "SOC_code": "49-1011",
+   "Occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers"
+ },
+ {
+   "Rank": 3,
+   "Probability": 0.003,
+   "Label": null,
+   "SOC_code": "11-9161",
+   "Occupation": "Emergency Management Directors"
+ },
+ {
+   "Rank": 4,
+   "Probability": 0.0031,
+   "Label": null,
+   "SOC_code": "21-1023",
+   "Occupation": "Mental Health and Substance Abuse Social Workers"
+ },
+ {
+   "Rank": 5,
+   "Probability": 0.0033,
+   "Label": null,
+   "SOC_code": "29-1181",
+   "Occupation": "Audiologists"
+ },
+ {
+   "Rank": 6,
+   "Probability": 0.0035,
+   "Label": null,
+   "SOC_code": "29-1122",
+   "Occupation": "Occupational Therapists"
+ },
+ {
+   "Rank": 7,
+   "Probability": 0.0035,
+   "Label": null,
+   "SOC_code": "29-2091",
+   "Occupation": "Orthotists and Prosthetists"
+ },
+ {
+   "Rank": 8,
+   "Probability": 0.0035,
+   "Label": null,
+   "SOC_code": "21-1022",
+   "Occupation": "Healthcare Social Workers"
+ },
+ {
+   "Rank": 9,
+   "Probability": 0.0036,
+   "Label": null,
+   "SOC_code": "29-1022",
+   "Occupation": "Oral and Maxillofacial Surgeons"
+ },
+ {
+   "Rank": 10,
+   "Probability": 0.0036,
+   "Label": null,
+   "SOC_code": "33-1021",
+   "Occupation": "First-Line Supervisors of Fire Fighting and Prevention Workers"
+ },
+ {
+   "Rank": 11,
+   "Probability": 0.0039,
+   "Label": null,
+   "SOC_code": "29-1031",
+   "Occupation": "Dietitians and Nutritionists"
+ },
+ {
+   "Rank": 12,
+   "Probability": 0.0039,
+   "Label": null,
+   "SOC_code": "11-9081",
+   "Occupation": "Lodging Managers"
+ },
+ {
+   "Rank": 13,
+   "Probability": 0.004,
+   "Label": null,
+   "SOC_code": "27-2032",
+   "Occupation": "Choreographers"
+ },
+ {
+   "Rank": 14,
+   "Probability": 0.0041,
+   "Label": null,
+   "SOC_code": "41-9031",
+   "Occupation": "Sales Engineers"
+ },
+ {
+   "Rank": 15,
+   "Probability": 0.0042,
+   "Label": 0,
+   "SOC_code": "29-1060",
+   "Occupation": "Physicians and Surgeons"
+ },
+ {
+   "Rank": 16,
+   "Probability": 0.0042,
+   "Label": null,
+   "SOC_code": "25-9031",
+   "Occupation": "Instructional Coordinators"
+ },
+ {
+   "Rank": 17,
+   "Probability": 0.0043,
+   "Label": null,
+   "SOC_code": "19-3039",
+   "Occupation": "Psychologists, All Other"
+ },
+ {
+   "Rank": 18,
+   "Probability": 0.0044,
+   "Label": null,
+   "SOC_code": "33-1012",
+   "Occupation": "First-Line Supervisors of Police and Detectives"
+ },
+ {
+   "Rank": 19,
+   "Probability": 0.0044,
+   "Label": 0,
+   "SOC_code": "29-1021",
+   "Occupation": "Dentists, General"
+ },
+ {
+   "Rank": 20,
+   "Probability": 0.0044,
+   "Label": null,
+   "SOC_code": "25-2021",
+   "Occupation": "Elementary School Teachers, Except Special Education"
+ },
+ {
+   "Rank": 21,
+   "Probability": 0.0045,
+   "Label": null,
+   "SOC_code": "19-1042",
+   "Occupation": "Medical Scientists, Except Epidemiologists"
+ },
+ {
+   "Rank": 22,
+   "Probability": 0.0046,
+   "Label": null,
+   "SOC_code": "11-9032",
+   "Occupation": "Education Administrators, Elementary and Secondary School"
+ },
+ {
+   "Rank": 23,
+   "Probability": 0.0046,
+   "Label": null,
+   "SOC_code": "29-1081",
+   "Occupation": "Podiatrists"
+ },
+ {
+   "Rank": 24,
+   "Probability": 0.0047,
+   "Label": null,
+   "SOC_code": "19-3031",
+   "Occupation": "Clinical, Counseling, and School Psychologists"
+ },
+ {
+   "Rank": 25,
+   "Probability": 0.0048,
+   "Label": null,
+   "SOC_code": "21-1014",
+   "Occupation": "Mental Health Counselors"
+ },
+ {
+   "Rank": 26,
+   "Probability": 0.0049,
+   "Label": null,
+   "SOC_code": "51-6092",
+   "Occupation": "Fabric and Apparel Patternmakers"
+ },
+ {
+   "Rank": 27,
+   "Probability": 0.0055,
+   "Label": null,
+   "SOC_code": "27-1027",
+   "Occupation": "Set and Exhibit Designers"
+ },
+ {
+   "Rank": 28,
+   "Probability": 0.0055,
+   "Label": null,
+   "SOC_code": "11-3121",
+   "Occupation": "Human Resources Managers"
+ },
+ {
+   "Rank": 29,
+   "Probability": 0.0061,
+   "Label": null,
+   "SOC_code": "39-9032",
+   "Occupation": "Recreation Workers"
+ },
+ {
+   "Rank": 30,
+   "Probability": 0.0063,
+   "Label": null,
+   "SOC_code": "11-3131",
+   "Occupation": "Training and Development Managers"
+ },
+ {
+   "Rank": 31,
+   "Probability": 0.0064,
+   "Label": null,
+   "SOC_code": "29-1127",
+   "Occupation": "Speech-Language Pathologists"
+ },
+ {
+   "Rank": 32,
+   "Probability": 0.0065,
+   "Label": null,
+   "SOC_code": "15-1121",
+   "Occupation": "Computer Systems Analysts"
+ },
+ {
+   "Rank": 33,
+   "Probability": 0.0067,
+   "Label": 0,
+   "SOC_code": "11-9151",
+   "Occupation": "Social and Community Service Managers"
+ },
+ {
+   "Rank": 34,
+   "Probability": 0.0068,
+   "Label": null,
+   "SOC_code": "25-4012",
+   "Occupation": "Curators"
+ },
+ {
+   "Rank": 35,
+   "Probability": 0.0071,
+   "Label": null,
+   "SOC_code": "29-9091",
+   "Occupation": "Athletic Trainers"
+ },
+ {
+   "Rank": 36,
+   "Probability": 0.0073,
+   "Label": null,
+   "SOC_code": "11-9111",
+   "Occupation": "Medical and Health Services Managers"
+ },
+ {
+   "Rank": 37,
+   "Probability": 0.0074,
+   "Label": 0,
+   "SOC_code": "25-2011",
+   "Occupation": "Preschool Teachers, Except Special Education"
+ },
+ {
+   "Rank": 38,
+   "Probability": 0.0075,
+   "Label": null,
+   "SOC_code": "25-9021",
+   "Occupation": "Farm and Home Management Advisors"
+ },
+ {
+   "Rank": 39,
+   "Probability": 0.0077,
+   "Label": null,
+   "SOC_code": "19-3091",
+   "Occupation": "Anthropologists and Archeologists"
+ },
+ {
+   "Rank": 40,
+   "Probability": 0.0077,
+   "Label": null,
+   "SOC_code": "25-2054",
+   "Occupation": "Special Education Teachers, Secondary School"
+ },
+ {
+   "Rank": 41,
+   "Probability": 0.0078,
+   "Label": null,
+   "SOC_code": "25-2031",
+   "Occupation": "Secondary School Teachers, Except Special and Career/Technical Education"
+ },
+ {
+   "Rank": 42,
+   "Probability": 0.0081,
+   "Label": 0,
+   "SOC_code": "21-2011",
+   "Occupation": "Clergy"
+ },
+ {
+   "Rank": 43,
+   "Probability": 0.0081,
+   "Label": null,
+   "SOC_code": "19-1032",
+   "Occupation": "Foresters"
+ },
+ {
+   "Rank": 44,
+   "Probability": 0.0085,
+   "Label": null,
+   "SOC_code": "21-1012",
+   "Occupation": "Educational, Guidance, School, and Vocational Counselors"
+ },
+ {
+   "Rank": 45,
+   "Probability": 0.0088,
+   "Label": null,
+   "SOC_code": "25-2032",
+   "Occupation": "Career/Technical Education Teachers, Secondary School"
+ },
+ {
+   "Rank": 46,
+   "Probability": 0.009,
+   "Label": 0,
+   "SOC_code": "29-1111",
+   "Occupation": "Registered Nurses"
+ },
+ {
+   "Rank": 47,
+   "Probability": 0.0094,
+   "Label": null,
+   "SOC_code": "21-1015",
+   "Occupation": "Rehabilitation Counselors"
+ },
+ {
+   "Rank": 48,
+   "Probability": 0.0095,
+   "Label": null,
+   "SOC_code": "25-3999",
+   "Occupation": "Teachers and Instructors, All Other"
+ },
+ {
+   "Rank": 49,
+   "Probability": 0.0095,
+   "Label": null,
+   "SOC_code": "19-4092",
+   "Occupation": "Forensic Science Technicians"
+ },
+ {
+   "Rank": 50,
+   "Probability": 0.01,
+   "Label": null,
+   "SOC_code": "39-5091",
+   "Occupation": "Makeup Artists, Theatrical and Performance"
+ },
+ {
+   "Rank": 51,
+   "Probability": 0.01,
+   "Label": null,
+   "SOC_code": "17-2121",
+   "Occupation": "Marine Engineers and Naval Architects"
+ },
+ {
+   "Rank": 52,
+   "Probability": 0.01,
+   "Label": null,
+   "SOC_code": "11-9033",
+   "Occupation": "Education Administrators, Postsecondary"
+ },
+ {
+   "Rank": 53,
+   "Probability": 0.011,
+   "Label": null,
+   "SOC_code": "17-2141",
+   "Occupation": "Mechanical Engineers"
+ },
+ {
+   "Rank": 54,
+   "Probability": 0.012,
+   "Label": null,
+   "SOC_code": "29-1051",
+   "Occupation": "Pharmacists"
+ },
+ {
+   "Rank": 55,
+   "Probability": 0.012,
+   "Label": null,
+   "SOC_code": "13-1081",
+   "Occupation": "Logisticians"
+ },
+ {
+   "Rank": 56,
+   "Probability": 0.012,
+   "Label": null,
+   "SOC_code": "19-1022",
+   "Occupation": "Microbiologists"
+ },
+ {
+   "Rank": 57,
+   "Probability": 0.012,
+   "Label": null,
+   "SOC_code": "19-3032",
+   "Occupation": "Industrial-Organizational Psychologists"
+ },
+ {
+   "Rank": 58,
+   "Probability": 0.013,
+   "Label": null,
+   "SOC_code": "27-2022",
+   "Occupation": "Coaches and Scouts"
+ },
+ {
+   "Rank": 59,
+   "Probability": 0.013,
+   "Label": null,
+   "SOC_code": "11-2022",
+   "Occupation": "Sales Managers"
+ },
+ {
+   "Rank": 60,
+   "Probability": 0.014,
+   "Label": null,
+   "SOC_code": "19-2043",
+   "Occupation": "Hydrologists"
+ },
+ {
+   "Rank": 61,
+   "Probability": 0.014,
+   "Label": null,
+   "SOC_code": "11-2021",
+   "Occupation": "Marketing Managers"
+ },
+ {
+   "Rank": 62,
+   "Probability": 0.014,
+   "Label": 0,
+   "SOC_code": "21-1013",
+   "Occupation": "Marriage and Family Therapists"
+ },
+ {
+   "Rank": 63,
+   "Probability": 0.014,
+   "Label": null,
+   "SOC_code": "17-2199",
+   "Occupation": "Engineers, All Other"
+ },
+ {
+   "Rank": 64,
+   "Probability": 0.014,
+   "Label": null,
+   "SOC_code": "13-1151",
+   "Occupation": "Training and Development Specialists"
+ },
+ {
+   "Rank": 65,
+   "Probability": 0.014,
+   "Label": null,
+   "SOC_code": "43-1011",
+   "Occupation": "First-Line Supervisors of Office and Administrative Support Workers"
+ },
+ {
+   "Rank": 66,
+   "Probability": 0.015,
+   "Label": null,
+   "SOC_code": "19-1029",
+   "Occupation": "Biological Scientists, All Other"
+ },
+ {
+   "Rank": 67,
+   "Probability": 0.015,
+   "Label": null,
+   "SOC_code": "11-2031",
+   "Occupation": "Public Relations and Fundraising Managers"
+ },
+ {
+   "Rank": 68,
+   "Probability": 0.015,
+   "Label": null,
+   "SOC_code": "27-1014",
+   "Occupation": "Multimedia Artists and Animators"
+ },
+ {
+   "Rank": 69,
+   "Probability": 0.015,
+   "Label": null,
+   "SOC_code": "15-1111",
+   "Occupation": "Computer and Information Research Scientists"
+ },
+ {
+   "Rank": 70,
+   "Probability": 0.015,
+   "Label": 0,
+   "SOC_code": "11-1011",
+   "Occupation": "Chief Executives"
+ },
+ {
+   "Rank": 71,
+   "Probability": 0.015,
+   "Label": 0,
+   "SOC_code": "11-9031",
+   "Occupation": "Education Administrators, Preschool and Childcare Center/Program"
+ },
+ {
+   "Rank": 72,
+   "Probability": 0.015,
+   "Label": null,
+   "SOC_code": "27-2041",
+   "Occupation": "Music Directors and Composers"
+ },
+ {
+   "Rank": 73,
+   "Probability": 0.016,
+   "Label": null,
+   "SOC_code": "51-1011",
+   "Occupation": "First-Line Supervisors of Production and Operating Workers"
+ },
+ {
+   "Rank": 74,
+   "Probability": 0.016,
+   "Label": null,
+   "SOC_code": "41-3031",
+   "Occupation": "Securities, Commodities, and Financial Services Sales Agents"
+ },
+ {
+   "Rank": 75,
+   "Probability": 0.016,
+   "Label": null,
+   "SOC_code": "19-1031",
+   "Occupation": "Conservation Scientists"
+ },
+ {
+   "Rank": 76,
+   "Probability": 0.016,
+   "Label": null,
+   "SOC_code": "25-2053",
+   "Occupation": "Special Education Teachers, Middle School"
+ },
+ {
+   "Rank": 77,
+   "Probability": 0.017,
+   "Label": null,
+   "SOC_code": "17-2041",
+   "Occupation": "Chemical Engineers"
+ },
+ {
+   "Rank": 78,
+   "Probability": 0.017,
+   "Label": null,
+   "SOC_code": "11-9041",
+   "Occupation": "Architectural and Engineering Managers"
+ },
+ {
+   "Rank": 79,
+   "Probability": 0.017,
+   "Label": null,
+   "SOC_code": "17-2011",
+   "Occupation": "Aerospace Engineers"
+ },
+ {
+   "Rank": 80,
+   "Probability": 0.018,
+   "Label": null,
+   "SOC_code": "11-9121",
+   "Occupation": "Natural Sciences Managers"
+ },
+ {
+   "Rank": 81,
+   "Probability": 0.018,
+   "Label": null,
+   "SOC_code": "17-2081",
+   "Occupation": "Environmental Engineers"
+ },
+ {
+   "Rank": 82,
+   "Probability": 0.018,
+   "Label": null,
+   "SOC_code": "17-1011",
+   "Occupation": "Architects, Except Landscape and Naval"
+ },
+ {
+   "Rank": 83,
+   "Probability": 0.018,
+   "Label": null,
+   "SOC_code": "31-2021",
+   "Occupation": "Physical Therapist Assistants"
+ },
+ {
+   "Rank": 84,
+   "Probability": 0.019,
+   "Label": 0,
+   "SOC_code": "17-2051",
+   "Occupation": "Civil Engineers"
+ },
+ {
+   "Rank": 85,
+   "Probability": 0.02,
+   "Label": null,
+   "SOC_code": "29-1199",
+   "Occupation": "Health Diagnosing and Treating Practitioners, All Other"
+ },
+ {
+   "Rank": 86,
+   "Probability": 0.021,
+   "Label": null,
+   "SOC_code": "19-1013",
+   "Occupation": "Soil and Plant Scientists"
+ },
+ {
+   "Rank": 87,
+   "Probability": 0.021,
+   "Label": null,
+   "SOC_code": "19-2032",
+   "Occupation": "Materials Scientists"
+ },
+ {
+   "Rank": 88,
+   "Probability": 0.021,
+   "Label": null,
+   "SOC_code": "17-2131",
+   "Occupation": "Materials Engineers"
+ },
+ {
+   "Rank": 89,
+   "Probability": 0.021,
+   "Label": 0,
+   "SOC_code": "27-1022",
+   "Occupation": "Fashion Designers"
+ },
+ {
+   "Rank": 90,
+   "Probability": 0.021,
+   "Label": null,
+   "SOC_code": "29-1123",
+   "Occupation": "Physical Therapists"
+ },
+ {
+   "Rank": 91,
+   "Probability": 0.021,
+   "Label": null,
+   "SOC_code": "27-4021",
+   "Occupation": "Photographers"
+ },
+ {
+   "Rank": 92,
+   "Probability": 0.022,
+   "Label": null,
+   "SOC_code": "27-2012",
+   "Occupation": "Producers and Directors"
+ },
+ {
+   "Rank": 93,
+   "Probability": 0.022,
+   "Label": null,
+   "SOC_code": "27-1025",
+   "Occupation": "Interior Designers"
+ },
+ {
+   "Rank": 94,
+   "Probability": 0.023,
+   "Label": null,
+   "SOC_code": "29-1023",
+   "Occupation": "Orthodontists"
+ },
+ {
+   "Rank": 95,
+   "Probability": 0.023,
+   "Label": null,
+   "SOC_code": "27-1011",
+   "Occupation": "Art Directors"
+ },
+ {
+   "Rank": 96,
+   "Probability": 0.025,
+   "Label": null,
+   "SOC_code": "33-1011",
+   "Occupation": "First-Line Supervisors of Correctional Officers"
+ },
+ {
+   "Rank": 97,
+   "Probability": 0.025,
+   "Label": null,
+   "SOC_code": "21-2021",
+   "Occupation": "Directors, Religious Activities and Education"
+ },
+ {
+   "Rank": 98,
+   "Probability": 0.025,
+   "Label": null,
+   "SOC_code": "17-2072",
+   "Occupation": "Electronics Engineers, Except Computer"
+ },
+ {
+   "Rank": 99,
+   "Probability": 0.027,
+   "Label": null,
+   "SOC_code": "19-1021",
+   "Occupation": "Biochemists and Biophysicists"
+ },
+ {
+   "Rank": 100,
+   "Probability": 0.027,
+   "Label": null,
+   "SOC_code": "29-1011",
+   "Occupation": "Chiropractors"
+ },
+ {
+   "Rank": 101,
+   "Probability": 0.028,
+   "Label": null,
+   "SOC_code": "31-2011",
+   "Occupation": "Occupational Therapy Assistants"
+ },
+ {
+   "Rank": 102,
+   "Probability": 0.028,
+   "Label": null,
+   "SOC_code": "21-1021",
+   "Occupation": "Child, Family, and School Social Workers"
+ },
+ {
+   "Rank": 103,
+   "Probability": 0.028,
+   "Label": null,
+   "SOC_code": "17-2111",
+   "Occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+ },
+ {
+   "Rank": 104,
+   "Probability": 0.029,
+   "Label": null,
+   "SOC_code": "17-2112",
+   "Occupation": "Industrial Engineers"
+ },
+ {
+   "Rank": 105,
+   "Probability": 0.029,
+   "Label": null,
+   "SOC_code": "53-1031",
+   "Occupation": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators"
+ },
+ {
+   "Rank": 106,
+   "Probability": 0.029,
+   "Label": null,
+   "SOC_code": "29-2056",
+   "Occupation": "Veterinary Technologists and Technicians"
+ },
+ {
+   "Rank": 107,
+   "Probability": 0.03,
+   "Label": null,
+   "SOC_code": "11-3051",
+   "Occupation": "Industrial Production Managers"
+ },
+ {
+   "Rank": 108,
+   "Probability": 0.03,
+   "Label": null,
+   "SOC_code": "17-3026",
+   "Occupation": "Industrial Engineering Technicians"
+ },
+ {
+   "Rank": 109,
+   "Probability": 0.03,
+   "Label": null,
+   "SOC_code": "15-1142",
+   "Occupation": "Network and Computer Systems Administrators"
+ },
+ {
+   "Rank": 110,
+   "Probability": 0.03,
+   "Label": null,
+   "SOC_code": "15-1141",
+   "Occupation": "Database Administrators"
+ },
+ {
+   "Rank": 111,
+   "Probability": 0.03,
+   "Label": null,
+   "SOC_code": "11-3061",
+   "Occupation": "Purchasing Managers"
+ },
+ {
+   "Rank": 112,
+   "Probability": 0.032,
+   "Label": null,
+   "SOC_code": "25-1000",
+   "Occupation": "Postsecondary Teachers"
+ },
+ {
+   "Rank": 113,
+   "Probability": 0.033,
+   "Label": null,
+   "SOC_code": "19-2041",
+   "Occupation": "Environmental Scientists and Specialists, Including Health"
+ },
+ {
+   "Rank": 114,
+   "Probability": 0.033,
+   "Label": 0,
+   "SOC_code": "21-1011",
+   "Occupation": "Substance Abuse and Behavioral Disorder Counselors"
+ },
+ {
+   "Rank": 115,
+   "Probability": 0.035,
+   "Label": 0,
+   "SOC_code": "23-1011",
+   "Occupation": "Lawyers"
+ },
+ {
+   "Rank": 116,
+   "Probability": 0.035,
+   "Label": null,
+   "SOC_code": "27-1012",
+   "Occupation": "Craft Artists"
+ },
+ {
+   "Rank": 117,
+   "Probability": 0.035,
+   "Label": null,
+   "SOC_code": "15-2031",
+   "Occupation": "Operations Research Analysts"
+ },
+ {
+   "Rank": 118,
+   "Probability": 0.035,
+   "Label": null,
+   "SOC_code": "11-3021",
+   "Occupation": "Computer and Information Systems Managers"
+ },
+ {
+   "Rank": 119,
+   "Probability": 0.037,
+   "Label": null,
+   "SOC_code": "27-1021",
+   "Occupation": "Commercial and Industrial Designers"
+ },
+ {
+   "Rank": 120,
+   "Probability": 0.037,
+   "Label": null,
+   "SOC_code": "17-2031",
+   "Occupation": "Biomedical Engineers"
+ },
+ {
+   "Rank": 121,
+   "Probability": 0.037,
+   "Label": 0,
+   "SOC_code": "13-1121",
+   "Occupation": "Meeting, Convention, and Event Planners"
+ },
+ {
+   "Rank": 122,
+   "Probability": 0.038,
+   "Label": null,
+   "SOC_code": "29-1131",
+   "Occupation": "Veterinarians"
+ },
+ {
+   "Rank": 123,
+   "Probability": 0.038,
+   "Label": null,
+   "SOC_code": "27-3043",
+   "Occupation": "Writers and Authors"
+ },
+ {
+   "Rank": 124,
+   "Probability": 0.039,
+   "Label": null,
+   "SOC_code": "11-2011",
+   "Occupation": "Advertising and Promotions Managers"
+ },
+ {
+   "Rank": 125,
+   "Probability": 0.039,
+   "Label": null,
+   "SOC_code": "19-3094",
+   "Occupation": "Political Scientists"
+ },
+ {
+   "Rank": 126,
+   "Probability": 0.04,
+   "Label": null,
+   "SOC_code": "13-2071",
+   "Occupation": "Credit Counselors"
+ },
+ {
+   "Rank": 127,
+   "Probability": 0.04,
+   "Label": null,
+   "SOC_code": "19-3099",
+   "Occupation": "Social Scientists and Related Workers, All Other"
+ },
+ {
+   "Rank": 128,
+   "Probability": 0.041,
+   "Label": null,
+   "SOC_code": "19-2011",
+   "Occupation": "Astronomers"
+ },
+ {
+   "Rank": 129,
+   "Probability": 0.041,
+   "Label": null,
+   "SOC_code": "53-5031",
+   "Occupation": "Ship Engineers"
+ },
+ {
+   "Rank": 130,
+   "Probability": 0.042,
+   "Label": null,
+   "SOC_code": "15-1132",
+   "Occupation": "Software Developers, Applications"
+ },
+ {
+   "Rank": 131,
+   "Probability": 0.042,
+   "Label": null,
+   "SOC_code": "27-1013",
+   "Occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators"
+ },
+ {
+   "Rank": 132,
+   "Probability": 0.043,
+   "Label": null,
+   "SOC_code": "29-2053",
+   "Occupation": "Psychiatric Technicians"
+ },
+ {
+   "Rank": 133,
+   "Probability": 0.045,
+   "Label": 0,
+   "SOC_code": "17-1012",
+   "Occupation": "Landscape Architects"
+ },
+ {
+   "Rank": 134,
+   "Probability": 0.045,
+   "Label": null,
+   "SOC_code": "21-1091",
+   "Occupation": "Health Educators"
+ },
+ {
+   "Rank": 135,
+   "Probability": 0.047,
+   "Label": null,
+   "SOC_code": "15-2021",
+   "Occupation": "Mathematicians"
+ },
+ {
+   "Rank": 136,
+   "Probability": 0.047,
+   "Label": null,
+   "SOC_code": "27-1023",
+   "Occupation": "Floral Designers"
+ },
+ {
+   "Rank": 137,
+   "Probability": 0.047,
+   "Label": null,
+   "SOC_code": "11-9013",
+   "Occupation": "Farmers, Ranchers, and Other Agricultural Managers"
+ },
+ {
+   "Rank": 138,
+   "Probability": 0.048,
+   "Label": null,
+   "SOC_code": "33-2022",
+   "Occupation": "Forest Fire Inspectors and Prevention Specialists"
+ },
+ {
+   "Rank": 139,
+   "Probability": 0.049,
+   "Label": null,
+   "SOC_code": "29-2041",
+   "Occupation": "Emergency Medical Technicians and Paramedics"
+ },
+ {
+   "Rank": 140,
+   "Probability": 0.055,
+   "Label": null,
+   "SOC_code": "27-3041",
+   "Occupation": "Editors"
+ },
+ {
+   "Rank": 141,
+   "Probability": 0.055,
+   "Label": null,
+   "SOC_code": "29-1024",
+   "Occupation": "Prosthodontists"
+ },
+ {
+   "Rank": 142,
+   "Probability": 0.055,
+   "Label": 0,
+   "SOC_code": "29-9799",
+   "Occupation": "Healthcare Practitioners and Technical Workers, All Other"
+ },
+ {
+   "Rank": 143,
+   "Probability": 0.057,
+   "Label": null,
+   "SOC_code": "39-7012",
+   "Occupation": "Travel Guides"
+ },
+ {
+   "Rank": 144,
+   "Probability": 0.058,
+   "Label": null,
+   "SOC_code": "29-2061",
+   "Occupation": "Licensed Practical and Licensed Vocational Nurses"
+ },
+ {
+   "Rank": 145,
+   "Probability": 0.059,
+   "Label": null,
+   "SOC_code": "19-3041",
+   "Occupation": "Sociologists"
+ },
+ {
+   "Rank": 146,
+   "Probability": 0.06,
+   "Label": null,
+   "SOC_code": "23-1022",
+   "Occupation": "Arbitrators, Mediators, and Conciliators"
+ },
+ {
+   "Rank": 147,
+   "Probability": 0.061,
+   "Label": null,
+   "SOC_code": "19-1011",
+   "Occupation": "Animal Scientists"
+ },
+ {
+   "Rank": 148,
+   "Probability": 0.064,
+   "Label": null,
+   "SOC_code": "39-9041",
+   "Occupation": "Residential Advisors"
+ },
+ {
+   "Rank": 149,
+   "Probability": 0.066,
+   "Label": null,
+   "SOC_code": "53-1011",
+   "Occupation": "Aircraft Cargo Handling Supervisors"
+ },
+ {
+   "Rank": 150,
+   "Probability": 0.066,
+   "Label": null,
+   "SOC_code": "29-1126",
+   "Occupation": "Respiratory Therapists"
+ },
+ {
+   "Rank": 151,
+   "Probability": 0.067,
+   "Label": null,
+   "SOC_code": "27-3021",
+   "Occupation": "Broadcast News Analysts"
+ },
+ {
+   "Rank": 152,
+   "Probability": 0.069,
+   "Label": null,
+   "SOC_code": "11-3031",
+   "Occupation": "Financial Managers"
+ },
+ {
+   "Rank": 153,
+   "Probability": 0.07,
+   "Label": null,
+   "SOC_code": "17-2161",
+   "Occupation": "Nuclear Engineers"
+ },
+ {
+   "Rank": 154,
+   "Probability": 0.071,
+   "Label": null,
+   "SOC_code": "11-9021",
+   "Occupation": "Construction Managers"
+ },
+ {
+   "Rank": 155,
+   "Probability": 0.074,
+   "Label": null,
+   "SOC_code": "27-2042",
+   "Occupation": "Musicians and Singers"
+ },
+ {
+   "Rank": 156,
+   "Probability": 0.075,
+   "Label": null,
+   "SOC_code": "41-1012",
+   "Occupation": "First-Line Supervisors of Non-Retail Sales Workers"
+ },
+ {
+   "Rank": 157,
+   "Probability": 0.076,
+   "Label": null,
+   "SOC_code": "39-1021",
+   "Occupation": "First-Line Supervisors of Personal Service Workers"
+ },
+ {
+   "Rank": 158,
+   "Probability": 0.077,
+   "Label": null,
+   "SOC_code": "19-1012",
+   "Occupation": "Food Scientists and Technologists"
+ },
+ {
+   "Rank": 159,
+   "Probability": 0.08,
+   "Label": 0,
+   "SOC_code": "13-1041",
+   "Occupation": "Compliance Officers"
+ },
+ {
+   "Rank": 160,
+   "Probability": 0.08,
+   "Label": null,
+   "SOC_code": "33-3031",
+   "Occupation": "Fish and Game Wardens"
+ },
+ {
+   "Rank": 161,
+   "Probability": 0.082,
+   "Label": null,
+   "SOC_code": "27-1024",
+   "Occupation": "Graphic Designers"
+ },
+ {
+   "Rank": 162,
+   "Probability": 0.083,
+   "Label": null,
+   "SOC_code": "11-9051",
+   "Occupation": "Food Service Managers"
+ },
+ {
+   "Rank": 163,
+   "Probability": 0.084,
+   "Label": 0,
+   "SOC_code": "39-9011",
+   "Occupation": "Childcare Workers"
+ },
+ {
+   "Rank": 164,
+   "Probability": 0.085,
+   "Label": null,
+   "SOC_code": "39-9031",
+   "Occupation": "Fitness Trainers and Aerobics Instructors"
+ },
+ {
+   "Rank": 165,
+   "Probability": 0.091,
+   "Label": null,
+   "SOC_code": "11-9071",
+   "Occupation": "Gaming Managers"
+ },
+ {
+   "Rank": 166,
+   "Probability": 0.097,
+   "Label": null,
+   "SOC_code": "49-9051",
+   "Occupation": "Electrical Power-Line Installers and Repairers"
+ },
+ {
+   "Rank": 167,
+   "Probability": 0.098,
+   "Label": null,
+   "SOC_code": "33-3051",
+   "Occupation": "Police and Sheriff's Patrol Officers"
+ },
+ {
+   "Rank": 168,
+   "Probability": 0.099,
+   "Label": null,
+   "SOC_code": "41-3041",
+   "Occupation": "Travel Agents"
+ },
+ {
+   "Rank": 169,
+   "Probability": 0.1,
+   "Label": 0,
+   "SOC_code": "35-1011",
+   "Occupation": "Chefs and Head Cooks"
+ },
+ {
+   "Rank": 170,
+   "Probability": 0.1,
+   "Label": null,
+   "SOC_code": "39-2011",
+   "Occupation": "Animal Trainers"
+ },
+ {
+   "Rank": 171,
+   "Probability": 0.1,
+   "Label": null,
+   "SOC_code": "27-3011",
+   "Occupation": "Radio and Television Announcers"
+ },
+ {
+   "Rank": 172,
+   "Probability": 0.1,
+   "Label": 0,
+   "SOC_code": "17-2071",
+   "Occupation": "Electrical Engineers"
+ },
+ {
+   "Rank": 173,
+   "Probability": 0.1,
+   "Label": null,
+   "SOC_code": "19-2031",
+   "Occupation": "Chemists"
+ },
+ {
+   "Rank": 174,
+   "Probability": 0.1,
+   "Label": null,
+   "SOC_code": "29-2054",
+   "Occupation": "Respiratory Therapy Technicians"
+ },
+ {
+   "Rank": 175,
+   "Probability": 0.1,
+   "Label": 0,
+   "SOC_code": "19-2012",
+   "Occupation": "Physicists"
+ },
+ {
+   "Rank": 176,
+   "Probability": 0.11,
+   "Label": 0,
+   "SOC_code": "39-5012",
+   "Occupation": "Hairdressers, Hairstylists, and Cosmetologists"
+ },
+ {
+   "Rank": 177,
+   "Probability": 0.11,
+   "Label": null,
+   "SOC_code": "27-3022",
+   "Occupation": "Reporters and Correspondents"
+ },
+ {
+   "Rank": 178,
+   "Probability": 0.11,
+   "Label": null,
+   "SOC_code": "53-2021",
+   "Occupation": "Air Traffic Controllers"
+ },
+ {
+   "Rank": 179,
+   "Probability": 0.13,
+   "Label": null,
+   "SOC_code": "27-2031",
+   "Occupation": "Dancers"
+ },
+ {
+   "Rank": 180,
+   "Probability": 0.13,
+   "Label": null,
+   "SOC_code": "29-2033",
+   "Occupation": "Nuclear Medicine Technologists"
+ },
+ {
+   "Rank": 181,
+   "Probability": 0.13,
+   "Label": null,
+   "SOC_code": "15-1133",
+   "Occupation": "Software Developers, Systems Software"
+ },
+ {
+   "Rank": 182,
+   "Probability": 0.13,
+   "Label": null,
+   "SOC_code": "13-1111",
+   "Occupation": "Management Analysts"
+ },
+ {
+   "Rank": 183,
+   "Probability": 0.13,
+   "Label": null,
+   "SOC_code": "29-2051",
+   "Occupation": "Dietetic Technicians"
+ },
+ {
+   "Rank": 184,
+   "Probability": 0.13,
+   "Label": null,
+   "SOC_code": "19-3051",
+   "Occupation": "Urban and Regional Planners"
+ },
+ {
+   "Rank": 185,
+   "Probability": 0.13,
+   "Label": null,
+   "SOC_code": "21-1093",
+   "Occupation": "Social and Human Service Assistants"
+ },
+ {
+   "Rank": 186,
+   "Probability": 0.13,
+   "Label": null,
+   "SOC_code": "25-3021",
+   "Occupation": "Self-Enrichment Education Teachers"
+ },
+ {
+   "Rank": 187,
+   "Probability": 0.13,
+   "Label": null,
+   "SOC_code": "27-4014",
+   "Occupation": "Sound Engineering Technicians"
+ },
+ {
+   "Rank": 188,
+   "Probability": 0.14,
+   "Label": null,
+   "SOC_code": "29-1041",
+   "Occupation": "Optometrists"
+ },
+ {
+   "Rank": 189,
+   "Probability": 0.14,
+   "Label": null,
+   "SOC_code": "17-2151",
+   "Occupation": "Mining and Geological Engineers, Including Mining Safety Engineers"
+ },
+ {
+   "Rank": 190,
+   "Probability": 0.14,
+   "Label": null,
+   "SOC_code": "29-1071",
+   "Occupation": "Physician Assistants"
+ },
+ {
+   "Rank": 191,
+   "Probability": 0.15,
+   "Label": null,
+   "SOC_code": "25-2012",
+   "Occupation": "Kindergarten Teachers, Except Special Education"
+ },
+ {
+   "Rank": 192,
+   "Probability": 0.15,
+   "Label": null,
+   "SOC_code": "47-2111",
+   "Occupation": "Electricians"
+ },
+ {
+   "Rank": 193,
+   "Probability": 0.16,
+   "Label": null,
+   "SOC_code": "17-2171",
+   "Occupation": "Petroleum Engineers"
+ },
+ {
+   "Rank": 194,
+   "Probability": 0.16,
+   "Label": null,
+   "SOC_code": "43-9031",
+   "Occupation": "Desktop Publishers"
+ },
+ {
+   "Rank": 195,
+   "Probability": 0.16,
+   "Label": null,
+   "SOC_code": "11-1021",
+   "Occupation": "General and Operations Managers"
+ },
+ {
+   "Rank": 196,
+   "Probability": 0.17,
+   "Label": null,
+   "SOC_code": "29-9011",
+   "Occupation": "Occupational Health and Safety Specialists"
+ },
+ {
+   "Rank": 197,
+   "Probability": 0.17,
+   "Label": null,
+   "SOC_code": "33-2011",
+   "Occupation": "Firefighters"
+ },
+ {
+   "Rank": 198,
+   "Probability": 0.17,
+   "Label": null,
+   "SOC_code": "13-2061",
+   "Occupation": "Financial Examiners"
+ },
+ {
+   "Rank": 199,
+   "Probability": 0.17,
+   "Label": null,
+   "SOC_code": "47-1011",
+   "Occupation": "First-Line Supervisors of Construction Trades and Extraction Workers"
+ },
+ {
+   "Rank": 200,
+   "Probability": 0.17,
+   "Label": null,
+   "SOC_code": "25-2022",
+   "Occupation": "Middle School Teachers, Except Special and Career/Technical Education"
+ },
+ {
+   "Rank": 201,
+   "Probability": 0.18,
+   "Label": null,
+   "SOC_code": "27-3031",
+   "Occupation": "Public Relations Specialists"
+ },
+ {
+   "Rank": 202,
+   "Probability": 0.18,
+   "Label": null,
+   "SOC_code": "49-9092",
+   "Occupation": "Commercial Divers"
+ },
+ {
+   "Rank": 203,
+   "Probability": 0.18,
+   "Label": null,
+   "SOC_code": "49-9095",
+   "Occupation": "Manufactured Building and Mobile Home Installers"
+ },
+ {
+   "Rank": 204,
+   "Probability": 0.18,
+   "Label": null,
+   "SOC_code": "53-2011",
+   "Occupation": "Airline Pilots, Copilots, and Flight Engineers"
+ },
+ {
+   "Rank": 205,
+   "Probability": 0.19,
+   "Label": null,
+   "SOC_code": "25-3011",
+   "Occupation": "Adult Basic and Secondary Education and Literacy Teachers and Instructors"
+ },
+ {
+   "Rank": 206,
+   "Probability": 0.2,
+   "Label": null,
+   "SOC_code": "19-1041",
+   "Occupation": "Epidemiologists"
+ },
+ {
+   "Rank": 207,
+   "Probability": 0.2,
+   "Label": null,
+   "SOC_code": "39-4831",
+   "Occupation": "Funeral Service Managers, Directors, Morticians, and Undertakers"
+ },
+ {
+   "Rank": 208,
+   "Probability": 0.21,
+   "Label": null,
+   "SOC_code": "15-1179",
+   "Occupation": "Information Security Analysts, Web Developers, and Computer Network Architects"
+ },
+ {
+   "Rank": 209,
+   "Probability": 0.21,
+   "Label": null,
+   "SOC_code": "15-2011",
+   "Occupation": "Actuaries"
+ },
+ {
+   "Rank": 210,
+   "Probability": 0.21,
+   "Label": null,
+   "SOC_code": "33-9011",
+   "Occupation": "Animal Control Workers"
+ },
+ {
+   "Rank": 211,
+   "Probability": 0.21,
+   "Label": 0,
+   "SOC_code": "39-6012",
+   "Occupation": "Concierges"
+ },
+ {
+   "Rank": 212,
+   "Probability": 0.22,
+   "Label": null,
+   "SOC_code": "15-1799",
+   "Occupation": "Computer Occupations, All Other"
+ },
+ {
+   "Rank": 213,
+   "Probability": 0.22,
+   "Label": null,
+   "SOC_code": "15-2041",
+   "Occupation": "Statisticians"
+ },
+ {
+   "Rank": 214,
+   "Probability": 0.22,
+   "Label": null,
+   "SOC_code": "17-2061",
+   "Occupation": "Computer Hardware Engineers"
+ },
+ {
+   "Rank": 215,
+   "Probability": 0.23,
+   "Label": null,
+   "SOC_code": "19-3022",
+   "Occupation": "Survey Researchers"
+ },
+ {
+   "Rank": 216,
+   "Probability": 0.23,
+   "Label": null,
+   "SOC_code": "13-1199",
+   "Occupation": "Business Operations Specialists, All Other"
+ },
+ {
+   "Rank": 217,
+   "Probability": 0.23,
+   "Label": null,
+   "SOC_code": "13-2051",
+   "Occupation": "Financial Analysts"
+ },
+ {
+   "Rank": 218,
+   "Probability": 0.23,
+   "Label": null,
+   "SOC_code": "29-2037",
+   "Occupation": "Radiologic Technologists and Technicians"
+ },
+ {
+   "Rank": 219,
+   "Probability": 0.23,
+   "Label": null,
+   "SOC_code": "29-2031",
+   "Occupation": "Cardiovascular Technologists and Technicians"
+ },
+ {
+   "Rank": 220,
+   "Probability": 0.24,
+   "Label": null,
+   "SOC_code": "13-1011",
+   "Occupation": "Agents and Business Managers of Artists, Performers, and Athletes"
+ },
+ {
+   "Rank": 221,
+   "Probability": 0.24,
+   "Label": null,
+   "SOC_code": "17-3029",
+   "Occupation": "Engineering Technicians, Except Drafters, All Other"
+ },
+ {
+   "Rank": 222,
+   "Probability": 0.25,
+   "Label": null,
+   "SOC_code": "19-3092",
+   "Occupation": "Geographers"
+ },
+ {
+   "Rank": 223,
+   "Probability": 0.25,
+   "Label": null,
+   "SOC_code": "29-9012",
+   "Occupation": "Occupational Health and Safety Technicians"
+ },
+ {
+   "Rank": 224,
+   "Probability": 0.25,
+   "Label": null,
+   "SOC_code": "21-1092",
+   "Occupation": "Probation Officers and Correctional Treatment Specialists"
+ },
+ {
+   "Rank": 225,
+   "Probability": 0.25,
+   "Label": null,
+   "SOC_code": "17-3025",
+   "Occupation": "Environmental Engineering Technicians"
+ },
+ {
+   "Rank": 226,
+   "Probability": 0.25,
+   "Label": null,
+   "SOC_code": "11-9199",
+   "Occupation": "Managers, All Other"
+ },
+ {
+   "Rank": 227,
+   "Probability": 0.25,
+   "Label": null,
+   "SOC_code": "53-3011",
+   "Occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+ },
+ {
+   "Rank": 228,
+   "Probability": 0.25,
+   "Label": null,
+   "SOC_code": "41-4011",
+   "Occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+ },
+ {
+   "Rank": 229,
+   "Probability": 0.26,
+   "Label": null,
+   "SOC_code": "25-2023",
+   "Occupation": "Career/Technical Education Teachers, Middle School"
+ },
+ {
+   "Rank": 230,
+   "Probability": 0.27,
+   "Label": null,
+   "SOC_code": "53-5021",
+   "Occupation": "Captains, Mates, and Pilots of Water Vessels"
+ },
+ {
+   "Rank": 231,
+   "Probability": 0.27,
+   "Label": null,
+   "SOC_code": "31-2012",
+   "Occupation": "Occupational Therapy Aides"
+ },
+ {
+   "Rank": 232,
+   "Probability": 0.27,
+   "Label": null,
+   "SOC_code": "49-9062",
+   "Occupation": "Medical Equipment Repairers"
+ },
+ {
+   "Rank": 233,
+   "Probability": 0.28,
+   "Label": null,
+   "SOC_code": "41-1011",
+   "Occupation": "First-Line Supervisors of Retail Sales Workers"
+ },
+ {
+   "Rank": 234,
+   "Probability": 0.28,
+   "Label": 0,
+   "SOC_code": "27-2021",
+   "Occupation": "Athletes and Sports Competitors"
+ },
+ {
+   "Rank": 235,
+   "Probability": 0.28,
+   "Label": null,
+   "SOC_code": "39-1011",
+   "Occupation": "Gaming Supervisors"
+ },
+ {
+   "Rank": 236,
+   "Probability": 0.29,
+   "Label": null,
+   "SOC_code": "39-5094",
+   "Occupation": "Skincare Specialists"
+ },
+ {
+   "Rank": 237,
+   "Probability": 0.29,
+   "Label": null,
+   "SOC_code": "13-1022",
+   "Occupation": "Wholesale and Retail Buyers, Except Farm Products"
+ },
+ {
+   "Rank": 238,
+   "Probability": 0.3,
+   "Label": null,
+   "SOC_code": "19-4021",
+   "Occupation": "Biological Technicians"
+ },
+ {
+   "Rank": 239,
+   "Probability": 0.3,
+   "Label": null,
+   "SOC_code": "31-9092",
+   "Occupation": "Medical Assistants"
+ },
+ {
+   "Rank": 240,
+   "Probability": 0.3,
+   "Label": 0,
+   "SOC_code": "19-1023",
+   "Occupation": "Zoologists and Wildlife Biologists"
+ },
+ {
+   "Rank": 241,
+   "Probability": 0.3,
+   "Label": null,
+   "SOC_code": "35-2013",
+   "Occupation": "Cooks, Private Household"
+ },
+ {
+   "Rank": 242,
+   "Probability": 0.31,
+   "Label": null,
+   "SOC_code": "13-1078",
+   "Occupation": "Human Resources, Training, and Labor Relations Specialists, All Other"
+ },
+ {
+   "Rank": 243,
+   "Probability": 0.31,
+   "Label": null,
+   "SOC_code": "33-9021",
+   "Occupation": "Private Detectives and Investigators"
+ },
+ {
+   "Rank": 244,
+   "Probability": 0.31,
+   "Label": null,
+   "SOC_code": "27-4032",
+   "Occupation": "Film and Video Editors"
+ },
+ {
+   "Rank": 245,
+   "Probability": 0.33,
+   "Label": null,
+   "SOC_code": "13-2099",
+   "Occupation": "Financial Specialists, All Other"
+ },
+ {
+   "Rank": 246,
+   "Probability": 0.34,
+   "Label": null,
+   "SOC_code": "33-3021",
+   "Occupation": "Detectives and Criminal Investigators"
+ },
+ {
+   "Rank": 247,
+   "Probability": 0.34,
+   "Label": null,
+   "SOC_code": "29-2055",
+   "Occupation": "Surgical Technologists"
+ },
+ {
+   "Rank": 248,
+   "Probability": 0.34,
+   "Label": null,
+   "SOC_code": "29-1124",
+   "Occupation": "Radiation Therapists"
+ },
+ {
+   "Rank": 249,
+   "Probability": 0.35,
+   "Label": 0,
+   "SOC_code": "47-2152",
+   "Occupation": "Plumbers, Pipefitters, and Steamfitters"
+ },
+ {
+   "Rank": 250,
+   "Probability": 0.35,
+   "Label": 0,
+   "SOC_code": "53-2031",
+   "Occupation": "Flight Attendants"
+ },
+ {
+   "Rank": 251,
+   "Probability": 0.35,
+   "Label": null,
+   "SOC_code": "29-2032",
+   "Occupation": "Diagnostic Medical Sonographers"
+ },
+ {
+   "Rank": 252,
+   "Probability": 0.36,
+   "Label": null,
+   "SOC_code": "33-3011",
+   "Occupation": "Bailiffs"
+ },
+ {
+   "Rank": 253,
+   "Probability": 0.36,
+   "Label": null,
+   "SOC_code": "51-4012",
+   "Occupation": "Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic"
+ },
+ {
+   "Rank": 254,
+   "Probability": 0.36,
+   "Label": null,
+   "SOC_code": "49-2022",
+   "Occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers"
+ },
+ {
+   "Rank": 255,
+   "Probability": 0.37,
+   "Label": null,
+   "SOC_code": "51-9051",
+   "Occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+ },
+ {
+   "Rank": 256,
+   "Probability": 0.37,
+   "Label": null,
+   "SOC_code": "53-7061",
+   "Occupation": "Cleaners of Vehicles and Equipment"
+ },
+ {
+   "Rank": 257,
+   "Probability": 0.37,
+   "Label": null,
+   "SOC_code": "39-4021",
+   "Occupation": "Funeral Attendants"
+ },
+ {
+   "Rank": 258,
+   "Probability": 0.37,
+   "Label": null,
+   "SOC_code": "47-5081",
+   "Occupation": "Helpers-Extraction Workers"
+ },
+ {
+   "Rank": 259,
+   "Probability": 0.37,
+   "Label": null,
+   "SOC_code": "27-2011",
+   "Occupation": "Actors"
+ },
+ {
+   "Rank": 260,
+   "Probability": 0.37,
+   "Label": null,
+   "SOC_code": "53-7111",
+   "Occupation": "Mine Shuttle Car Operators"
+ },
+ {
+   "Rank": 261,
+   "Probability": 0.38,
+   "Label": null,
+   "SOC_code": "49-2095",
+   "Occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+ },
+ {
+   "Rank": 262,
+   "Probability": 0.38,
+   "Label": 1,
+   "SOC_code": "17-1022",
+   "Occupation": "Surveyors"
+ },
+ {
+   "Rank": 263,
+   "Probability": 0.38,
+   "Label": null,
+   "SOC_code": "17-3027",
+   "Occupation": "Mechanical Engineering Technicians"
+ },
+ {
+   "Rank": 264,
+   "Probability": 0.38,
+   "Label": null,
+   "SOC_code": "53-7064",
+   "Occupation": "Packers and Packagers, Hand"
+ },
+ {
+   "Rank": 265,
+   "Probability": 0.38,
+   "Label": null,
+   "SOC_code": "27-3091",
+   "Occupation": "Interpreters and Translators"
+ },
+ {
+   "Rank": 266,
+   "Probability": 0.39,
+   "Label": null,
+   "SOC_code": "31-1011",
+   "Occupation": "Home Health Aides"
+ },
+ {
+   "Rank": 267,
+   "Probability": 0.39,
+   "Label": null,
+   "SOC_code": "51-6093",
+   "Occupation": "Upholsterers"
+ },
+ {
+   "Rank": 268,
+   "Probability": 0.39,
+   "Label": null,
+   "SOC_code": "47-4021",
+   "Occupation": "Elevator Installers and Repairers"
+ },
+ {
+   "Rank": 269,
+   "Probability": 0.39,
+   "Label": null,
+   "SOC_code": "43-3041",
+   "Occupation": "Gaming Cage Workers"
+ },
+ {
+   "Rank": 270,
+   "Probability": 0.39,
+   "Label": null,
+   "SOC_code": "25-9011",
+   "Occupation": "Audio-Visual and Multimedia Collections Specialists"
+ },
+ {
+   "Rank": 271,
+   "Probability": 0.4,
+   "Label": 0,
+   "SOC_code": "23-1023",
+   "Occupation": "Judges, Magistrate Judges, and Magistrates"
+ },
+ {
+   "Rank": 272,
+   "Probability": 0.4,
+   "Label": null,
+   "SOC_code": "49-3042",
+   "Occupation": "Mobile Heavy Equipment Mechanics, Except Engines"
+ },
+ {
+   "Rank": 273,
+   "Probability": 0.4,
+   "Label": null,
+   "SOC_code": "29-2799",
+   "Occupation": "Health Technologists and Technicians, All Other"
+ },
+ {
+   "Rank": 274,
+   "Probability": 0.41,
+   "Label": null,
+   "SOC_code": "45-2041",
+   "Occupation": "Graders and Sorters, Agricultural Products"
+ },
+ {
+   "Rank": 275,
+   "Probability": 0.41,
+   "Label": null,
+   "SOC_code": "51-2041",
+   "Occupation": "Structural Metal Fabricators and Fitters"
+ },
+ {
+   "Rank": 276,
+   "Probability": 0.41,
+   "Label": 1,
+   "SOC_code": "23-1012",
+   "Occupation": "Judicial Law Clerks"
+ },
+ {
+   "Rank": 277,
+   "Probability": 0.41,
+   "Label": null,
+   "SOC_code": "49-2094",
+   "Occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+ },
+ {
+   "Rank": 278,
+   "Probability": 0.42,
+   "Label": null,
+   "SOC_code": "19-4093",
+   "Occupation": "Forest and Conservation Technicians"
+ },
+ {
+   "Rank": 279,
+   "Probability": 0.42,
+   "Label": null,
+   "SOC_code": "53-1021",
+   "Occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+ },
+ {
+   "Rank": 280,
+   "Probability": 0.43,
+   "Label": null,
+   "SOC_code": "39-3093",
+   "Occupation": "Locker Room, Coatroom, and Dressing Room Attendants"
+ },
+ {
+   "Rank": 281,
+   "Probability": 0.43,
+   "Label": null,
+   "SOC_code": "19-2099",
+   "Occupation": "Physical Scientists, All Other"
+ },
+ {
+   "Rank": 282,
+   "Probability": 0.43,
+   "Label": 0,
+   "SOC_code": "19-3011",
+   "Occupation": "Economists"
+ },
+ {
+   "Rank": 283,
+   "Probability": 0.44,
+   "Label": null,
+   "SOC_code": "19-3093",
+   "Occupation": "Historians"
+ },
+ {
+   "Rank": 284,
+   "Probability": 0.45,
+   "Label": null,
+   "SOC_code": "51-9082",
+   "Occupation": "Medical Appliance Technicians"
+ },
+ {
+   "Rank": 285,
+   "Probability": 0.46,
+   "Label": null,
+   "SOC_code": "43-4031",
+   "Occupation": "Court, Municipal, and License Clerks"
+ },
+ {
+   "Rank": 286,
+   "Probability": 0.47,
+   "Label": null,
+   "SOC_code": "13-1141",
+   "Occupation": "Compensation, Benefits, and Job Analysis Specialists"
+ },
+ {
+   "Rank": 287,
+   "Probability": 0.47,
+   "Label": null,
+   "SOC_code": "31-1013",
+   "Occupation": "Psychiatric Aides"
+ },
+ {
+   "Rank": 288,
+   "Probability": 0.47,
+   "Label": null,
+   "SOC_code": "29-2012",
+   "Occupation": "Medical and Clinical Laboratory Technicians"
+ },
+ {
+   "Rank": 289,
+   "Probability": 0.48,
+   "Label": null,
+   "SOC_code": "33-2021",
+   "Occupation": "Fire Inspectors and Investigators"
+ },
+ {
+   "Rank": 290,
+   "Probability": 0.48,
+   "Label": null,
+   "SOC_code": "17-3021",
+   "Occupation": "Aerospace Engineering and Operations Technicians"
+ },
+ {
+   "Rank": 291,
+   "Probability": 0.48,
+   "Label": null,
+   "SOC_code": "27-1026",
+   "Occupation": "Merchandise Displayers and Window Trimmers"
+ },
+ {
+   "Rank": 292,
+   "Probability": 0.48,
+   "Label": null,
+   "SOC_code": "47-5031",
+   "Occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters"
+ },
+ {
+   "Rank": 293,
+   "Probability": 0.48,
+   "Label": null,
+   "SOC_code": "15-1131",
+   "Occupation": "Computer Programmers"
+ },
+ {
+   "Rank": 294,
+   "Probability": 0.49,
+   "Label": null,
+   "SOC_code": "33-9091",
+   "Occupation": "Crossing Guards"
+ },
+ {
+   "Rank": 295,
+   "Probability": 0.49,
+   "Label": null,
+   "SOC_code": "17-2021",
+   "Occupation": "Agricultural Engineers"
+ },
+ {
+   "Rank": 296,
+   "Probability": 0.49,
+   "Label": null,
+   "SOC_code": "47-5061",
+   "Occupation": "Roof Bolters, Mining"
+ },
+ {
+   "Rank": 297,
+   "Probability": 0.49,
+   "Label": null,
+   "SOC_code": "49-9052",
+   "Occupation": "Telecommunications Line Installers and Repairers"
+ },
+ {
+   "Rank": 298,
+   "Probability": 0.49,
+   "Label": null,
+   "SOC_code": "43-5031",
+   "Occupation": "Police, Fire, and Ambulance Dispatchers"
+ },
+ {
+   "Rank": 299,
+   "Probability": 0.5,
+   "Label": null,
+   "SOC_code": "53-7033",
+   "Occupation": "Loading Machine Operators, Underground Mining"
+ },
+ {
+   "Rank": 300,
+   "Probability": 0.5,
+   "Label": null,
+   "SOC_code": "49-9799",
+   "Occupation": "Installation, Maintenance, and Repair Workers, All Other"
+ },
+ {
+   "Rank": 301,
+   "Probability": 0.5,
+   "Label": null,
+   "SOC_code": "23-2091",
+   "Occupation": "Court Reporters"
+ },
+ {
+   "Rank": 302,
+   "Probability": 0.51,
+   "Label": null,
+   "SOC_code": "41-9011",
+   "Occupation": "Demonstrators and Product Promoters"
+ },
+ {
+   "Rank": 303,
+   "Probability": 0.51,
+   "Label": null,
+   "SOC_code": "31-9091",
+   "Occupation": "Dental Assistants"
+ },
+ {
+   "Rank": 304,
+   "Probability": 0.52,
+   "Label": null,
+   "SOC_code": "51-6041",
+   "Occupation": "Shoe and Leather Workers and Repairers"
+ },
+ {
+   "Rank": 305,
+   "Probability": 0.52,
+   "Label": null,
+   "SOC_code": "17-3011",
+   "Occupation": "Architectural and Civil Drafters"
+ },
+ {
+   "Rank": 306,
+   "Probability": 0.53,
+   "Label": null,
+   "SOC_code": "47-5012",
+   "Occupation": "Rotary Drill Operators, Oil and Gas"
+ },
+ {
+   "Rank": 307,
+   "Probability": 0.53,
+   "Label": null,
+   "SOC_code": "47-4041",
+   "Occupation": "Hazardous Materials Removal Workers"
+ },
+ {
+   "Rank": 308,
+   "Probability": 0.54,
+   "Label": null,
+   "SOC_code": "39-4011",
+   "Occupation": "Embalmers"
+ },
+ {
+   "Rank": 309,
+   "Probability": 0.54,
+   "Label": null,
+   "SOC_code": "47-5041",
+   "Occupation": "Continuous Mining Machine Operators"
+ },
+ {
+   "Rank": 310,
+   "Probability": 0.54,
+   "Label": null,
+   "SOC_code": "39-1012",
+   "Occupation": "Slot Supervisors"
+ },
+ {
+   "Rank": 311,
+   "Probability": 0.54,
+   "Label": null,
+   "SOC_code": "31-9011",
+   "Occupation": "Massage Therapists"
+ },
+ {
+   "Rank": 312,
+   "Probability": 0.54,
+   "Label": null,
+   "SOC_code": "41-3011",
+   "Occupation": "Advertising Sales Agents"
+ },
+ {
+   "Rank": 313,
+   "Probability": 0.55,
+   "Label": null,
+   "SOC_code": "49-3022",
+   "Occupation": "Automotive Glass Installers and Repairers"
+ },
+ {
+   "Rank": 314,
+   "Probability": 0.55,
+   "Label": null,
+   "SOC_code": "53-2012",
+   "Occupation": "Commercial Pilots"
+ },
+ {
+   "Rank": 315,
+   "Probability": 0.55,
+   "Label": null,
+   "SOC_code": "43-4051",
+   "Occupation": "Customer Service Representatives"
+ },
+ {
+   "Rank": 316,
+   "Probability": 0.55,
+   "Label": null,
+   "SOC_code": "27-4011",
+   "Occupation": "Audio and Video Equipment Technicians"
+ },
+ {
+   "Rank": 317,
+   "Probability": 0.56,
+   "Label": null,
+   "SOC_code": "25-9041",
+   "Occupation": "Teacher Assistants"
+ },
+ {
+   "Rank": 318,
+   "Probability": 0.57,
+   "Label": null,
+   "SOC_code": "45-1011",
+   "Occupation": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+ },
+ {
+   "Rank": 319,
+   "Probability": 0.57,
+   "Label": null,
+   "SOC_code": "19-4031",
+   "Occupation": "Chemical Technicians"
+ },
+ {
+   "Rank": 320,
+   "Probability": 0.57,
+   "Label": null,
+   "SOC_code": "47-3015",
+   "Occupation": "Helpers-Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+ },
+ {
+   "Rank": 321,
+   "Probability": 0.57,
+   "Label": 1,
+   "SOC_code": "13-1051",
+   "Occupation": "Cost Estimators"
+ },
+ {
+   "Rank": 322,
+   "Probability": 0.57,
+   "Label": null,
+   "SOC_code": "33-3052",
+   "Occupation": "Transit and Railroad Police"
+ },
+ {
+   "Rank": 323,
+   "Probability": 0.57,
+   "Label": null,
+   "SOC_code": "37-1012",
+   "Occupation": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+ },
+ {
+   "Rank": 324,
+   "Probability": 0.58,
+   "Label": null,
+   "SOC_code": "13-2052",
+   "Occupation": "Personal Financial Advisors"
+ },
+ {
+   "Rank": 325,
+   "Probability": 0.59,
+   "Label": null,
+   "SOC_code": "49-9044",
+   "Occupation": "Millwrights"
+ },
+ {
+   "Rank": 326,
+   "Probability": 0.59,
+   "Label": null,
+   "SOC_code": "25-4013",
+   "Occupation": "Museum Technicians and Conservators"
+ },
+ {
+   "Rank": 327,
+   "Probability": 0.59,
+   "Label": null,
+   "SOC_code": "47-5042",
+   "Occupation": "Mine Cutting and Channeling Machine Operators"
+ },
+ {
+   "Rank": 328,
+   "Probability": 0.59,
+   "Label": 0,
+   "SOC_code": "11-3071",
+   "Occupation": "Transportation, Storage, and Distribution Managers"
+ },
+ {
+   "Rank": 329,
+   "Probability": 0.59,
+   "Label": null,
+   "SOC_code": "49-3092",
+   "Occupation": "Recreational Vehicle Service Technicians"
+ },
+ {
+   "Rank": 330,
+   "Probability": 0.59,
+   "Label": null,
+   "SOC_code": "49-3023",
+   "Occupation": "Automotive Service Technicians and Mechanics"
+ },
+ {
+   "Rank": 331,
+   "Probability": 0.6,
+   "Label": null,
+   "SOC_code": "33-3012",
+   "Occupation": "Correctional Officers and Jailers"
+ },
+ {
+   "Rank": 332,
+   "Probability": 0.6,
+   "Label": null,
+   "SOC_code": "27-4031",
+   "Occupation": "Camera Operators, Television, Video, and Motion Picture"
+ },
+ {
+   "Rank": 333,
+   "Probability": 0.6,
+   "Label": null,
+   "SOC_code": "51-3023",
+   "Occupation": "Slaughterers and Meat Packers"
+ },
+ {
+   "Rank": 334,
+   "Probability": 0.61,
+   "Label": null,
+   "SOC_code": "49-2096",
+   "Occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles"
+ },
+ {
+   "Rank": 335,
+   "Probability": 0.61,
+   "Label": null,
+   "SOC_code": "31-2022",
+   "Occupation": "Physical Therapist Aides"
+ },
+ {
+   "Rank": 336,
+   "Probability": 0.61,
+   "Label": null,
+   "SOC_code": "39-3092",
+   "Occupation": "Costume Attendants"
+ },
+ {
+   "Rank": 337,
+   "Probability": 0.61,
+   "Label": 1,
+   "SOC_code": "13-1161",
+   "Occupation": "Market Research Analysts and Marketing Specialists"
+ },
+ {
+   "Rank": 338,
+   "Probability": 0.61,
+   "Label": null,
+   "SOC_code": "43-4181",
+   "Occupation": "Reservation and Transportation Ticket Agents and Travel Clerks"
+ },
+ {
+   "Rank": 339,
+   "Probability": 0.61,
+   "Label": null,
+   "SOC_code": "51-8031",
+   "Occupation": "Water and Wastewater Treatment Plant and System Operators"
+ },
+ {
+   "Rank": 340,
+   "Probability": 0.61,
+   "Label": null,
+   "SOC_code": "19-4099",
+   "Occupation": "Life, Physical, and Social Science Technicians, All Other"
+ },
+ {
+   "Rank": 341,
+   "Probability": 0.61,
+   "Label": null,
+   "SOC_code": "51-3093",
+   "Occupation": "Food Cooking Machine Operators and Tenders"
+ },
+ {
+   "Rank": 342,
+   "Probability": 0.61,
+   "Label": null,
+   "SOC_code": "51-4122",
+   "Occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 343,
+   "Probability": 0.62,
+   "Label": 1,
+   "SOC_code": "53-5022",
+   "Occupation": "Motorboat Operators"
+ },
+ {
+   "Rank": 344,
+   "Probability": 0.62,
+   "Label": null,
+   "SOC_code": "47-2082",
+   "Occupation": "Tapers"
+ },
+ {
+   "Rank": 345,
+   "Probability": 0.62,
+   "Label": null,
+   "SOC_code": "47-2151",
+   "Occupation": "Pipelayers"
+ },
+ {
+   "Rank": 346,
+   "Probability": 0.63,
+   "Label": null,
+   "SOC_code": "19-2042",
+   "Occupation": "Geoscientists, Except Hydrologists and Geographers"
+ },
+ {
+   "Rank": 347,
+   "Probability": 0.63,
+   "Label": null,
+   "SOC_code": "49-9012",
+   "Occupation": "Control and Valve Installers and Repairers, Except Mechanical Door"
+ },
+ {
+   "Rank": 348,
+   "Probability": 0.63,
+   "Label": null,
+   "SOC_code": "31-9799",
+   "Occupation": "Healthcare Support Workers, All Other"
+ },
+ {
+   "Rank": 349,
+   "Probability": 0.63,
+   "Label": null,
+   "SOC_code": "35-1012",
+   "Occupation": "First-Line Supervisors of Food Preparation and Serving Workers"
+ },
+ {
+   "Rank": 350,
+   "Probability": 0.63,
+   "Label": null,
+   "SOC_code": "47-4011",
+   "Occupation": "Construction and Building Inspectors"
+ },
+ {
+   "Rank": 351,
+   "Probability": 0.64,
+   "Label": null,
+   "SOC_code": "51-9031",
+   "Occupation": "Cutters and Trimmers, Hand"
+ },
+ {
+   "Rank": 352,
+   "Probability": 0.64,
+   "Label": null,
+   "SOC_code": "49-9071",
+   "Occupation": "Maintenance and Repair Workers, General"
+ },
+ {
+   "Rank": 353,
+   "Probability": 0.64,
+   "Label": null,
+   "SOC_code": "23-1021",
+   "Occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers"
+ },
+ {
+   "Rank": 354,
+   "Probability": 0.64,
+   "Label": null,
+   "SOC_code": "43-5081",
+   "Occupation": "Stock Clerks and Order Fillers"
+ },
+ {
+   "Rank": 355,
+   "Probability": 0.64,
+   "Label": null,
+   "SOC_code": "51-8012",
+   "Occupation": "Power Distributors and Dispatchers"
+ },
+ {
+   "Rank": 356,
+   "Probability": 0.64,
+   "Label": null,
+   "SOC_code": "47-2132",
+   "Occupation": "Insulation Workers, Mechanical"
+ },
+ {
+   "Rank": 357,
+   "Probability": 0.65,
+   "Label": null,
+   "SOC_code": "19-4061",
+   "Occupation": "Social Science Research Assistants"
+ },
+ {
+   "Rank": 358,
+   "Probability": 0.65,
+   "Label": null,
+   "SOC_code": "51-4041",
+   "Occupation": "Machinists"
+ },
+ {
+   "Rank": 359,
+   "Probability": 0.65,
+   "Label": null,
+   "SOC_code": "15-1150",
+   "Occupation": "Computer Support Specialists"
+ },
+ {
+   "Rank": 360,
+   "Probability": 0.65,
+   "Label": null,
+   "SOC_code": "25-4021",
+   "Occupation": "Librarians"
+ },
+ {
+   "Rank": 361,
+   "Probability": 0.65,
+   "Label": null,
+   "SOC_code": "49-2097",
+   "Occupation": "Electronic Home Entertainment Equipment Installers and Repairers"
+ },
+ {
+   "Rank": 362,
+   "Probability": 0.65,
+   "Label": null,
+   "SOC_code": "49-9021",
+   "Occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+ },
+ {
+   "Rank": 363,
+   "Probability": 0.65,
+   "Label": null,
+   "SOC_code": "53-7041",
+   "Occupation": "Hoist and Winch Operators"
+ },
+ {
+   "Rank": 364,
+   "Probability": 0.66,
+   "Label": null,
+   "SOC_code": "37-2021",
+   "Occupation": "Pest Control Workers"
+ },
+ {
+   "Rank": 365,
+   "Probability": 0.66,
+   "Label": null,
+   "SOC_code": "51-9198",
+   "Occupation": "Helpers-Production Workers"
+ },
+ {
+   "Rank": 366,
+   "Probability": 0.66,
+   "Label": null,
+   "SOC_code": "43-9111",
+   "Occupation": "Statistical Assistants"
+ },
+ {
+   "Rank": 367,
+   "Probability": 0.66,
+   "Label": null,
+   "SOC_code": "37-2011",
+   "Occupation": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+ },
+ {
+   "Rank": 368,
+   "Probability": 0.66,
+   "Label": null,
+   "SOC_code": "49-3051",
+   "Occupation": "Motorboat Mechanics and Service Technicians"
+ },
+ {
+   "Rank": 369,
+   "Probability": 0.67,
+   "Label": null,
+   "SOC_code": "51-9196",
+   "Occupation": "Paper Goods Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 370,
+   "Probability": 0.67,
+   "Label": null,
+   "SOC_code": "51-4071",
+   "Occupation": "Foundry Mold and Coremakers"
+ },
+ {
+   "Rank": 371,
+   "Probability": 0.67,
+   "Label": null,
+   "SOC_code": "19-2021",
+   "Occupation": "Atmospheric and Space Scientists"
+ },
+ {
+   "Rank": 372,
+   "Probability": 0.67,
+   "Label": 1,
+   "SOC_code": "53-3021",
+   "Occupation": "Bus Drivers, Transit and Intercity"
+ },
+ {
+   "Rank": 373,
+   "Probability": 0.67,
+   "Label": null,
+   "SOC_code": "33-9092",
+   "Occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+ },
+ {
+   "Rank": 374,
+   "Probability": 0.67,
+   "Label": null,
+   "SOC_code": "49-9041",
+   "Occupation": "Industrial Machinery Mechanics"
+ },
+ {
+   "Rank": 375,
+   "Probability": 0.68,
+   "Label": null,
+   "SOC_code": "43-5052",
+   "Occupation": "Postal Service Mail Carriers"
+ },
+ {
+   "Rank": 376,
+   "Probability": 0.68,
+   "Label": null,
+   "SOC_code": "47-5071",
+   "Occupation": "Roustabouts, Oil and Gas"
+ },
+ {
+   "Rank": 377,
+   "Probability": 0.68,
+   "Label": null,
+   "SOC_code": "47-2011",
+   "Occupation": "Boilermakers"
+ },
+ {
+   "Rank": 378,
+   "Probability": 0.68,
+   "Label": null,
+   "SOC_code": "17-3013",
+   "Occupation": "Mechanical Drafters"
+ },
+ {
+   "Rank": 379,
+   "Probability": 0.68,
+   "Label": null,
+   "SOC_code": "29-2021",
+   "Occupation": "Dental Hygienists"
+ },
+ {
+   "Rank": 380,
+   "Probability": 0.69,
+   "Label": 1,
+   "SOC_code": "53-3033",
+   "Occupation": "Light Truck or Delivery Services Drivers"
+ },
+ {
+   "Rank": 381,
+   "Probability": 0.69,
+   "Label": 0,
+   "SOC_code": "37-2012",
+   "Occupation": "Maids and Housekeeping Cleaners"
+ },
+ {
+   "Rank": 382,
+   "Probability": 0.69,
+   "Label": null,
+   "SOC_code": "51-9122",
+   "Occupation": "Painters, Transportation Equipment"
+ },
+ {
+   "Rank": 383,
+   "Probability": 0.7,
+   "Label": null,
+   "SOC_code": "43-4061",
+   "Occupation": "Eligibility Interviewers, Government Programs"
+ },
+ {
+   "Rank": 384,
+   "Probability": 0.7,
+   "Label": null,
+   "SOC_code": "49-3093",
+   "Occupation": "Tire Repairers and Changers"
+ },
+ {
+   "Rank": 385,
+   "Probability": 0.7,
+   "Label": null,
+   "SOC_code": "51-3092",
+   "Occupation": "Food Batchmakers"
+ },
+ {
+   "Rank": 386,
+   "Probability": 0.7,
+   "Label": null,
+   "SOC_code": "49-2091",
+   "Occupation": "Avionics Technicians"
+ },
+ {
+   "Rank": 387,
+   "Probability": 0.71,
+   "Label": null,
+   "SOC_code": "49-3011",
+   "Occupation": "Aircraft Mechanics and Service Technicians"
+ },
+ {
+   "Rank": 388,
+   "Probability": 0.71,
+   "Label": null,
+   "SOC_code": "53-2022",
+   "Occupation": "Airfield Operations Specialists"
+ },
+ {
+   "Rank": 389,
+   "Probability": 0.71,
+   "Label": null,
+   "SOC_code": "51-8093",
+   "Occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+ },
+ {
+   "Rank": 390,
+   "Probability": 0.71,
+   "Label": null,
+   "SOC_code": "47-4799",
+   "Occupation": "Construction and Related Workers, All Other"
+ },
+ {
+   "Rank": 391,
+   "Probability": 0.71,
+   "Label": null,
+   "SOC_code": "29-2081",
+   "Occupation": "Opticians, Dispensing"
+ },
+ {
+   "Rank": 392,
+   "Probability": 0.71,
+   "Label": null,
+   "SOC_code": "51-6011",
+   "Occupation": "Laundry and Dry-Cleaning Workers"
+ },
+ {
+   "Rank": 393,
+   "Probability": 0.72,
+   "Label": null,
+   "SOC_code": "39-3091",
+   "Occupation": "Amusement and Recreation Attendants"
+ },
+ {
+   "Rank": 394,
+   "Probability": 0.72,
+   "Label": null,
+   "SOC_code": "31-9095",
+   "Occupation": "Pharmacy Aides"
+ },
+ {
+   "Rank": 395,
+   "Probability": 0.72,
+   "Label": null,
+   "SOC_code": "47-3016",
+   "Occupation": "Helpers-Roofers"
+ },
+ {
+   "Rank": 396,
+   "Probability": 0.72,
+   "Label": null,
+   "SOC_code": "53-7121",
+   "Occupation": "Tank Car, Truck, and Ship Loaders"
+ },
+ {
+   "Rank": 397,
+   "Probability": 0.72,
+   "Label": null,
+   "SOC_code": "49-9031",
+   "Occupation": "Home Appliance Repairers"
+ },
+ {
+   "Rank": 398,
+   "Probability": 0.72,
+   "Label": null,
+   "SOC_code": "47-2031",
+   "Occupation": "Carpenters"
+ },
+ {
+   "Rank": 399,
+   "Probability": 0.72,
+   "Label": null,
+   "SOC_code": "27-3012",
+   "Occupation": "Public Address System and Other Announcers"
+ },
+ {
+   "Rank": 400,
+   "Probability": 0.73,
+   "Label": null,
+   "SOC_code": "51-6063",
+   "Occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 401,
+   "Probability": 0.73,
+   "Label": null,
+   "SOC_code": "11-3011",
+   "Occupation": "Administrative Services Managers"
+ },
+ {
+   "Rank": 402,
+   "Probability": 0.73,
+   "Label": null,
+   "SOC_code": "47-2121",
+   "Occupation": "Glaziers"
+ },
+ {
+   "Rank": 403,
+   "Probability": 0.73,
+   "Label": null,
+   "SOC_code": "51-2021",
+   "Occupation": "Coil Winders, Tapers, and Finishers"
+ },
+ {
+   "Rank": 404,
+   "Probability": 0.73,
+   "Label": null,
+   "SOC_code": "49-3031",
+   "Occupation": "Bus and Truck Mechanics and Diesel Engine Specialists"
+ },
+ {
+   "Rank": 405,
+   "Probability": 0.74,
+   "Label": null,
+   "SOC_code": "49-2011",
+   "Occupation": "Computer, Automated Teller, and Office Machine Repairers"
+ },
+ {
+   "Rank": 406,
+   "Probability": 0.74,
+   "Label": null,
+   "SOC_code": "39-9021",
+   "Occupation": "Personal Care Aides"
+ },
+ {
+   "Rank": 407,
+   "Probability": 0.74,
+   "Label": null,
+   "SOC_code": "27-4012",
+   "Occupation": "Broadcast Technicians"
+ },
+ {
+   "Rank": 408,
+   "Probability": 0.74,
+   "Label": null,
+   "SOC_code": "47-3013",
+   "Occupation": "Helpers-Electricians"
+ },
+ {
+   "Rank": 409,
+   "Probability": 0.75,
+   "Label": null,
+   "SOC_code": "11-9131",
+   "Occupation": "Postmasters and Mail Superintendents"
+ },
+ {
+   "Rank": 410,
+   "Probability": 0.75,
+   "Label": null,
+   "SOC_code": "47-2044",
+   "Occupation": "Tile and Marble Setters"
+ },
+ {
+   "Rank": 411,
+   "Probability": 0.75,
+   "Label": null,
+   "SOC_code": "47-2141",
+   "Occupation": "Painters, Construction and Maintenance"
+ },
+ {
+   "Rank": 412,
+   "Probability": 0.75,
+   "Label": null,
+   "SOC_code": "53-6061",
+   "Occupation": "Transportation Attendants, Except Flight Attendants"
+ },
+ {
+   "Rank": 413,
+   "Probability": 0.75,
+   "Label": 1,
+   "SOC_code": "17-3022",
+   "Occupation": "Civil Engineering Technicians"
+ },
+ {
+   "Rank": 414,
+   "Probability": 0.75,
+   "Label": null,
+   "SOC_code": "49-3041",
+   "Occupation": "Farm Equipment Mechanics and Service Technicians"
+ },
+ {
+   "Rank": 415,
+   "Probability": 0.76,
+   "Label": null,
+   "SOC_code": "25-4011",
+   "Occupation": "Archivists"
+ },
+ {
+   "Rank": 416,
+   "Probability": 0.76,
+   "Label": null,
+   "SOC_code": "51-9011",
+   "Occupation": "Chemical Equipment Operators and Tenders"
+ },
+ {
+   "Rank": 417,
+   "Probability": 0.76,
+   "Label": null,
+   "SOC_code": "49-2092",
+   "Occupation": "Electric Motor, Power Tool, and Related Repairers"
+ },
+ {
+   "Rank": 418,
+   "Probability": 0.76,
+   "Label": null,
+   "SOC_code": "45-4021",
+   "Occupation": "Fallers"
+ },
+ {
+   "Rank": 419,
+   "Probability": 0.77,
+   "Label": null,
+   "SOC_code": "19-4091",
+   "Occupation": "Environmental Science and Protection Technicians, Including Health"
+ },
+ {
+   "Rank": 420,
+   "Probability": 0.77,
+   "Label": null,
+   "SOC_code": "49-9094",
+   "Occupation": "Locksmiths and Safe Repairers"
+ },
+ {
+   "Rank": 421,
+   "Probability": 0.77,
+   "Label": null,
+   "SOC_code": "37-3013",
+   "Occupation": "Tree Trimmers and Pruners"
+ },
+ {
+   "Rank": 422,
+   "Probability": 0.77,
+   "Label": null,
+   "SOC_code": "35-3011",
+   "Occupation": "Bartenders"
+ },
+ {
+   "Rank": 423,
+   "Probability": 0.77,
+   "Label": null,
+   "SOC_code": "13-1023",
+   "Occupation": "Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+ },
+ {
+   "Rank": 424,
+   "Probability": 0.77,
+   "Label": 1,
+   "SOC_code": "35-9021",
+   "Occupation": "Dishwashers"
+ },
+ {
+   "Rank": 425,
+   "Probability": 0.77,
+   "Label": 0,
+   "SOC_code": "45-3021",
+   "Occupation": "Hunters and Trappers"
+ },
+ {
+   "Rank": 426,
+   "Probability": 0.78,
+   "Label": null,
+   "SOC_code": "31-9093",
+   "Occupation": "Medical Equipment Preparers"
+ },
+ {
+   "Rank": 427,
+   "Probability": 0.78,
+   "Label": null,
+   "SOC_code": "51-4031",
+   "Occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 428,
+   "Probability": 0.78,
+   "Label": null,
+   "SOC_code": "43-9011",
+   "Occupation": "Computer Operators"
+ },
+ {
+   "Rank": 429,
+   "Probability": 0.78,
+   "Label": null,
+   "SOC_code": "51-8092",
+   "Occupation": "Gas Plant Operators"
+ },
+ {
+   "Rank": 430,
+   "Probability": 0.79,
+   "Label": null,
+   "SOC_code": "43-5053",
+   "Occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+ },
+ {
+   "Rank": 431,
+   "Probability": 0.79,
+   "Label": null,
+   "SOC_code": "53-3032",
+   "Occupation": "Heavy and Tractor-Trailer Truck Drivers"
+ },
+ {
+   "Rank": 432,
+   "Probability": 0.79,
+   "Label": null,
+   "SOC_code": "39-5093",
+   "Occupation": "Shampooers"
+ },
+ {
+   "Rank": 433,
+   "Probability": 0.79,
+   "Label": null,
+   "SOC_code": "47-2081",
+   "Occupation": "Drywall and Ceiling Tile Installers"
+ },
+ {
+   "Rank": 434,
+   "Probability": 0.79,
+   "Label": null,
+   "SOC_code": "49-9098",
+   "Occupation": "Helpers-Installation, Maintenance, and Repair Workers"
+ },
+ {
+   "Rank": 435,
+   "Probability": 0.79,
+   "Label": null,
+   "SOC_code": "49-3052",
+   "Occupation": "Motorcycle Mechanics"
+ },
+ {
+   "Rank": 436,
+   "Probability": 0.79,
+   "Label": null,
+   "SOC_code": "51-2011",
+   "Occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+ },
+ {
+   "Rank": 437,
+   "Probability": 0.79,
+   "Label": null,
+   "SOC_code": "45-4022",
+   "Occupation": "Logging Equipment Operators"
+ },
+ {
+   "Rank": 438,
+   "Probability": 0.79,
+   "Label": null,
+   "SOC_code": "47-2042",
+   "Occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles"
+ },
+ {
+   "Rank": 439,
+   "Probability": 0.8,
+   "Label": null,
+   "SOC_code": "39-5011",
+   "Occupation": "Barbers"
+ },
+ {
+   "Rank": 440,
+   "Probability": 0.8,
+   "Label": null,
+   "SOC_code": "47-5011",
+   "Occupation": "Derrick Operators, Oil and Gas"
+ },
+ {
+   "Rank": 441,
+   "Probability": 0.81,
+   "Label": 1,
+   "SOC_code": "35-2011",
+   "Occupation": "Cooks, Fast Food"
+ },
+ {
+   "Rank": 442,
+   "Probability": 0.81,
+   "Label": null,
+   "SOC_code": "43-9022",
+   "Occupation": "Word Processors and Typists"
+ },
+ {
+   "Rank": 443,
+   "Probability": 0.81,
+   "Label": 1,
+   "SOC_code": "17-3012",
+   "Occupation": "Electrical and Electronics Drafters"
+ },
+ {
+   "Rank": 444,
+   "Probability": 0.81,
+   "Label": null,
+   "SOC_code": "17-3024",
+   "Occupation": "Electro-Mechanical Technicians"
+ },
+ {
+   "Rank": 445,
+   "Probability": 0.81,
+   "Label": null,
+   "SOC_code": "51-9192",
+   "Occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+ },
+ {
+   "Rank": 446,
+   "Probability": 0.81,
+   "Label": null,
+   "SOC_code": "11-9141",
+   "Occupation": "Property, Real Estate, and Community Association Managers"
+ },
+ {
+   "Rank": 447,
+   "Probability": 0.81,
+   "Label": null,
+   "SOC_code": "43-6013",
+   "Occupation": "Medical Secretaries"
+ },
+ {
+   "Rank": 448,
+   "Probability": 0.81,
+   "Label": null,
+   "SOC_code": "51-6021",
+   "Occupation": "Pressers, Textile, Garment, and Related Materials"
+ },
+ {
+   "Rank": 449,
+   "Probability": 0.82,
+   "Label": null,
+   "SOC_code": "51-2031",
+   "Occupation": "Engine and Other Machine Assemblers"
+ },
+ {
+   "Rank": 450,
+   "Probability": 0.82,
+   "Label": null,
+   "SOC_code": "49-2098",
+   "Occupation": "Security and Fire Alarm Systems Installers"
+ },
+ {
+   "Rank": 451,
+   "Probability": 0.82,
+   "Label": null,
+   "SOC_code": "49-9045",
+   "Occupation": "Refractory Materials Repairers, Except Brickmasons"
+ },
+ {
+   "Rank": 452,
+   "Probability": 0.82,
+   "Label": null,
+   "SOC_code": "39-2021",
+   "Occupation": "Nonfarm Animal Caretakers"
+ },
+ {
+   "Rank": 453,
+   "Probability": 0.82,
+   "Label": 1,
+   "SOC_code": "47-2211",
+   "Occupation": "Sheet Metal Workers"
+ },
+ {
+   "Rank": 454,
+   "Probability": 0.82,
+   "Label": null,
+   "SOC_code": "47-2072",
+   "Occupation": "Pile-Driver Operators"
+ },
+ {
+   "Rank": 455,
+   "Probability": 0.82,
+   "Label": null,
+   "SOC_code": "47-2021",
+   "Occupation": "Brickmasons and Blockmasons"
+ },
+ {
+   "Rank": 456,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "45-3011",
+   "Occupation": "Fishers and Related Fishing Workers"
+ },
+ {
+   "Rank": 457,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "47-2221",
+   "Occupation": "Structural Iron and Steel Workers"
+ },
+ {
+   "Rank": 458,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "53-4021",
+   "Occupation": "Railroad Brake, Signal, and Switch Operators"
+ },
+ {
+   "Rank": 459,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "53-4031",
+   "Occupation": "Railroad Conductors and Yardmasters"
+ },
+ {
+   "Rank": 460,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "35-2012",
+   "Occupation": "Cooks, Institution and Cafeteria"
+ },
+ {
+   "Rank": 461,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "53-5011",
+   "Occupation": "Sailors and Marine Oilers"
+ },
+ {
+   "Rank": 462,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "51-9023",
+   "Occupation": "Mixing and Blending Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 463,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "47-3011",
+   "Occupation": "Helpers-Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+ },
+ {
+   "Rank": 464,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "47-4091",
+   "Occupation": "Segmental Pavers"
+ },
+ {
+   "Rank": 465,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "47-2131",
+   "Occupation": "Insulation Workers, Floor, Ceiling, and Wall"
+ },
+ {
+   "Rank": 466,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "51-5112",
+   "Occupation": "Printing Press Operators"
+ },
+ {
+   "Rank": 467,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "53-6031",
+   "Occupation": "Automotive and Watercraft Service Attendants"
+ },
+ {
+   "Rank": 468,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "47-4071",
+   "Occupation": "Septic Tank Servicers and Sewer Pipe Cleaners"
+ },
+ {
+   "Rank": 469,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "39-6011",
+   "Occupation": "Baggage Porters and Bellhops"
+ },
+ {
+   "Rank": 470,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "41-2012",
+   "Occupation": "Gaming Change Persons and Booth Cashiers"
+ },
+ {
+   "Rank": 471,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "51-4023",
+   "Occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 472,
+   "Probability": 0.83,
+   "Label": null,
+   "SOC_code": "47-2071",
+   "Occupation": "Paving, Surfacing, and Tamping Equipment Operators"
+ },
+ {
+   "Rank": 473,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "51-4111",
+   "Occupation": "Tool and Die Makers"
+ },
+ {
+   "Rank": 474,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "17-3023",
+   "Occupation": "Electrical and Electronics Engineering Technicians"
+ },
+ {
+   "Rank": 475,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "47-2161",
+   "Occupation": "Plasterers and Stucco Masons"
+ },
+ {
+   "Rank": 476,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "51-4192",
+   "Occupation": "Layout Workers, Metal and Plastic"
+ },
+ {
+   "Rank": 477,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "51-4034",
+   "Occupation": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 478,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "33-9032",
+   "Occupation": "Security Guards"
+ },
+ {
+   "Rank": 479,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "51-6052",
+   "Occupation": "Tailors, Dressmakers, and Custom Sewers"
+ },
+ {
+   "Rank": 480,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "53-7073",
+   "Occupation": "Wellhead Pumpers"
+ },
+ {
+   "Rank": 481,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "43-9081",
+   "Occupation": "Proofreaders and Copy Markers"
+ },
+ {
+   "Rank": 482,
+   "Probability": 0.84,
+   "Label": null,
+   "SOC_code": "33-3041",
+   "Occupation": "Parking Enforcement Workers"
+ },
+ {
+   "Rank": 483,
+   "Probability": 0.85,
+   "Label": null,
+   "SOC_code": "53-7062",
+   "Occupation": "Laborers and Freight, Stock, and Material Movers, Hand"
+ },
+ {
+   "Rank": 484,
+   "Probability": 0.85,
+   "Label": null,
+   "SOC_code": "41-4012",
+   "Occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+ },
+ {
+   "Rank": 485,
+   "Probability": 0.85,
+   "Label": 1,
+   "SOC_code": "43-5041",
+   "Occupation": "Meter Readers, Utilities"
+ },
+ {
+   "Rank": 486,
+   "Probability": 0.85,
+   "Label": null,
+   "SOC_code": "51-8013",
+   "Occupation": "Power Plant Operators"
+ },
+ {
+   "Rank": 487,
+   "Probability": 0.85,
+   "Label": null,
+   "SOC_code": "51-8091",
+   "Occupation": "Chemical Plant and System Operators"
+ },
+ {
+   "Rank": 488,
+   "Probability": 0.85,
+   "Label": null,
+   "SOC_code": "47-5021",
+   "Occupation": "Earth Drillers, Except Oil and Gas"
+ },
+ {
+   "Rank": 489,
+   "Probability": 0.85,
+   "Label": null,
+   "SOC_code": "19-4051",
+   "Occupation": "Nuclear Technicians"
+ },
+ {
+   "Rank": 490,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "43-6011",
+   "Occupation": "Executive Secretaries and Executive Administrative Assistants"
+ },
+ {
+   "Rank": 491,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "51-8099",
+   "Occupation": "Plant and System Operators, All Other"
+ },
+ {
+   "Rank": 492,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "35-3041",
+   "Occupation": "Food Servers, Nonrestaurant"
+ },
+ {
+   "Rank": 493,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "51-7041",
+   "Occupation": "Sawing Machine Setters, Operators, and Tenders, Wood"
+ },
+ {
+   "Rank": 494,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "53-4041",
+   "Occupation": "Subway and Streetcar Operators"
+ },
+ {
+   "Rank": 495,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "31-9096",
+   "Occupation": "Veterinary Assistants and Laboratory Animal Caretakers"
+ },
+ {
+   "Rank": 496,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "51-9032",
+   "Occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 497,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "41-9022",
+   "Occupation": "Real Estate Sales Agents"
+ },
+ {
+   "Rank": 498,
+   "Probability": 0.86,
+   "Label": 1,
+   "SOC_code": "51-4011",
+   "Occupation": "Computer-Controlled Machine Tool Operators, Metal and Plastic"
+ },
+ {
+   "Rank": 499,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "49-9043",
+   "Occupation": "Maintenance Workers, Machinery"
+ },
+ {
+   "Rank": 500,
+   "Probability": 0.86,
+   "Label": null,
+   "SOC_code": "43-4021",
+   "Occupation": "Correspondence Clerks"
+ },
+ {
+   "Rank": 501,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "45-2090",
+   "Occupation": "Miscellaneous Agricultural Workers"
+ },
+ {
+   "Rank": 502,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "45-4011",
+   "Occupation": "Forest and Conservation Workers"
+ },
+ {
+   "Rank": 503,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "51-4052",
+   "Occupation": "Pourers and Casters, Metal"
+ },
+ {
+   "Rank": 504,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "47-2041",
+   "Occupation": "Carpet Installers"
+ },
+ {
+   "Rank": 505,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "47-2142",
+   "Occupation": "Paperhangers"
+ },
+ {
+   "Rank": 506,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "13-1021",
+   "Occupation": "Buyers and Purchasing Agents, Farm Products"
+ },
+ {
+   "Rank": 507,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "51-7021",
+   "Occupation": "Furniture Finishers"
+ },
+ {
+   "Rank": 508,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "35-2021",
+   "Occupation": "Food Preparation Workers"
+ },
+ {
+   "Rank": 509,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "47-2043",
+   "Occupation": "Floor Sanders and Finishers"
+ },
+ {
+   "Rank": 510,
+   "Probability": 0.87,
+   "Label": 1,
+   "SOC_code": "53-6021",
+   "Occupation": "Parking Lot Attendants"
+ },
+ {
+   "Rank": 511,
+   "Probability": 0.87,
+   "Label": null,
+   "SOC_code": "47-4051",
+   "Occupation": "Highway Maintenance Workers"
+ },
+ {
+   "Rank": 512,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "47-2061",
+   "Occupation": "Construction Laborers"
+ },
+ {
+   "Rank": 513,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "43-5061",
+   "Occupation": "Production, Planning, and Expediting Clerks"
+ },
+ {
+   "Rank": 514,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "51-9141",
+   "Occupation": "Semiconductor Processors"
+ },
+ {
+   "Rank": 515,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "17-1021",
+   "Occupation": "Cartographers and Photogrammetrists"
+ },
+ {
+   "Rank": 516,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "51-4051",
+   "Occupation": "Metal-Refining Furnace Operators and Tenders"
+ },
+ {
+   "Rank": 517,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "51-9012",
+   "Occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 518,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "51-6091",
+   "Occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+ },
+ {
+   "Rank": 519,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "47-2053",
+   "Occupation": "Terrazzo Workers and Finishers"
+ },
+ {
+   "Rank": 520,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "51-4194",
+   "Occupation": "Tool Grinders, Filers, and Sharpeners"
+ },
+ {
+   "Rank": 521,
+   "Probability": 0.88,
+   "Label": null,
+   "SOC_code": "49-3043",
+   "Occupation": "Rail Car Repairers"
+ },
+ {
+   "Rank": 522,
+   "Probability": 0.89,
+   "Label": null,
+   "SOC_code": "51-3011",
+   "Occupation": "Bakers"
+ },
+ {
+   "Rank": 523,
+   "Probability": 0.89,
+   "Label": 1,
+   "SOC_code": "31-9094",
+   "Occupation": "Medical Transcriptionists"
+ },
+ {
+   "Rank": 524,
+   "Probability": 0.89,
+   "Label": null,
+   "SOC_code": "47-2022",
+   "Occupation": "Stonemasons"
+ },
+ {
+   "Rank": 525,
+   "Probability": 0.89,
+   "Label": null,
+   "SOC_code": "53-3022",
+   "Occupation": "Bus Drivers, School or Special Client"
+ },
+ {
+   "Rank": 526,
+   "Probability": 0.89,
+   "Label": 1,
+   "SOC_code": "27-3042",
+   "Occupation": "Technical Writers"
+ },
+ {
+   "Rank": 527,
+   "Probability": 0.89,
+   "Label": null,
+   "SOC_code": "49-9096",
+   "Occupation": "Riggers"
+ },
+ {
+   "Rank": 528,
+   "Probability": 0.89,
+   "Label": null,
+   "SOC_code": "47-4061",
+   "Occupation": "Rail-Track Laying and Maintenance Equipment Operators"
+ },
+ {
+   "Rank": 529,
+   "Probability": 0.89,
+   "Label": null,
+   "SOC_code": "51-8021",
+   "Occupation": "Stationary Engineers and Boiler Operators"
+ },
+ {
+   "Rank": 530,
+   "Probability": 0.89,
+   "Label": 1,
+   "SOC_code": "51-6031",
+   "Occupation": "Sewing Machine Operators"
+ },
+ {
+   "Rank": 531,
+   "Probability": 0.89,
+   "Label": 1,
+   "SOC_code": "53-3041",
+   "Occupation": "Taxi Drivers and Chauffeurs"
+ },
+ {
+   "Rank": 532,
+   "Probability": 0.9,
+   "Label": 1,
+   "SOC_code": "43-4161",
+   "Occupation": "Human Resources Assistants, Except Payroll and Timekeeping"
+ },
+ {
+   "Rank": 533,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "29-2011",
+   "Occupation": "Medical and Clinical Laboratory Technologists"
+ },
+ {
+   "Rank": 534,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "47-2171",
+   "Occupation": "Reinforcing Iron and Rebar Workers"
+ },
+ {
+   "Rank": 535,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "47-2181",
+   "Occupation": "Roofers"
+ },
+ {
+   "Rank": 536,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "53-7021",
+   "Occupation": "Crane and Tower Operators"
+ },
+ {
+   "Rank": 537,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "53-6041",
+   "Occupation": "Traffic Technicians"
+ },
+ {
+   "Rank": 538,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "53-6051",
+   "Occupation": "Transportation Inspectors"
+ },
+ {
+   "Rank": 539,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "51-4062",
+   "Occupation": "Patternmakers, Metal and Plastic"
+ },
+ {
+   "Rank": 540,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "51-9195",
+   "Occupation": "Molders, Shapers, and Casters, Except Metal and Plastic"
+ },
+ {
+   "Rank": 541,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "13-2021",
+   "Occupation": "Appraisers and Assessors of Real Estate"
+ },
+ {
+   "Rank": 542,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "53-7072",
+   "Occupation": "Pump Operators, Except Wellhead Pumpers"
+ },
+ {
+   "Rank": 543,
+   "Probability": 0.9,
+   "Label": null,
+   "SOC_code": "49-9097",
+   "Occupation": "Signal and Track Switch Repairers"
+ },
+ {
+   "Rank": 544,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "39-3012",
+   "Occupation": "Gaming and Sports Book Writers and Runners"
+ },
+ {
+   "Rank": 545,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "49-9063",
+   "Occupation": "Musical Instrument Repairers and Tuners"
+ },
+ {
+   "Rank": 546,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "39-7011",
+   "Occupation": "Tour Guides and Escorts"
+ },
+ {
+   "Rank": 547,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "49-9011",
+   "Occupation": "Mechanical Door Repairers"
+ },
+ {
+   "Rank": 548,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "51-3091",
+   "Occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+ },
+ {
+   "Rank": 549,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "53-7071",
+   "Occupation": "Gas Compressor and Gas Pumping Station Operators"
+ },
+ {
+   "Rank": 550,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "29-2071",
+   "Occupation": "Medical Records and Health Information Technicians"
+ },
+ {
+   "Rank": 551,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "51-9121",
+   "Occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 552,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "51-4081",
+   "Occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 553,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "53-4013",
+   "Occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers"
+ },
+ {
+   "Rank": 554,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "49-2093",
+   "Occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment"
+ },
+ {
+   "Rank": 555,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "35-9011",
+   "Occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers"
+ },
+ {
+   "Rank": 556,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "51-4191",
+   "Occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 557,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "19-4041",
+   "Occupation": "Geological and Petroleum Technicians"
+ },
+ {
+   "Rank": 558,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "49-3021",
+   "Occupation": "Automotive Body and Related Repairers"
+ },
+ {
+   "Rank": 559,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "51-7032",
+   "Occupation": "Patternmakers, Wood"
+ },
+ {
+   "Rank": 560,
+   "Probability": 0.91,
+   "Label": null,
+   "SOC_code": "51-4021",
+   "Occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 561,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "43-9071",
+   "Occupation": "Office Machine Operators, Except Computer"
+ },
+ {
+   "Rank": 562,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "29-2052",
+   "Occupation": "Pharmacy Technicians"
+ },
+ {
+   "Rank": 563,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "43-4131",
+   "Occupation": "Loan Interviewers and Clerks"
+ },
+ {
+   "Rank": 564,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "53-7031",
+   "Occupation": "Dredge Operators"
+ },
+ {
+   "Rank": 565,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "41-3021",
+   "Occupation": "Insurance Sales Agents"
+ },
+ {
+   "Rank": 566,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "51-7011",
+   "Occupation": "Cabinetmakers and Bench Carpenters"
+ },
+ {
+   "Rank": 567,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "51-9123",
+   "Occupation": "Painting, Coating, and Decorating Workers"
+ },
+ {
+   "Rank": 568,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "47-4031",
+   "Occupation": "Fence Erectors"
+ },
+ {
+   "Rank": 569,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "51-4193",
+   "Occupation": "Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 570,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "41-2031",
+   "Occupation": "Retail Salespersons"
+ },
+ {
+   "Rank": 571,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "35-3021",
+   "Occupation": "Combined Food Preparation and Serving Workers, Including Fast Food"
+ },
+ {
+   "Rank": 572,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "51-9399",
+   "Occupation": "Production Workers, All Other"
+ },
+ {
+   "Rank": 573,
+   "Probability": 0.92,
+   "Label": null,
+   "SOC_code": "47-3012",
+   "Occupation": "Helpers-Carpenters"
+ },
+ {
+   "Rank": 574,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "51-9193",
+   "Occupation": "Cooling and Freezing Equipment Operators and Tenders"
+ },
+ {
+   "Rank": 575,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "51-2091",
+   "Occupation": "Fiberglass Laminators and Fabricators"
+ },
+ {
+   "Rank": 576,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "47-5013",
+   "Occupation": "Service Unit Operators, Oil, Gas, and Mining"
+ },
+ {
+   "Rank": 577,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "53-7011",
+   "Occupation": "Conveyor Operators and Tenders"
+ },
+ {
+   "Rank": 578,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "49-3053",
+   "Occupation": "Outdoor Power Equipment and Other Small Engine Mechanics"
+ },
+ {
+   "Rank": 579,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "53-4012",
+   "Occupation": "Locomotive Firers"
+ },
+ {
+   "Rank": 580,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "53-7063",
+   "Occupation": "Machine Feeders and Offbearers"
+ },
+ {
+   "Rank": 581,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "51-4061",
+   "Occupation": "Model Makers, Metal and Plastic"
+ },
+ {
+   "Rank": 582,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "49-2021",
+   "Occupation": "Radio, Cellular, and Tower Equipment Installers and Repairs"
+ },
+ {
+   "Rank": 583,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "51-3021",
+   "Occupation": "Butchers and Meat Cutters"
+ },
+ {
+   "Rank": 584,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "51-9041",
+   "Occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 585,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "53-7081",
+   "Occupation": "Refuse and Recyclable Material Collectors"
+ },
+ {
+   "Rank": 586,
+   "Probability": 0.93,
+   "Label": 1,
+   "SOC_code": "13-2081",
+   "Occupation": "Tax Examiners and Collectors, and Revenue Agents"
+ },
+ {
+   "Rank": 587,
+   "Probability": 0.93,
+   "Label": null,
+   "SOC_code": "51-4022",
+   "Occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 588,
+   "Probability": 0.93,
+   "Label": 1,
+   "SOC_code": "53-7051",
+   "Occupation": "Industrial Truck and Tractor Operators"
+ },
+ {
+   "Rank": 589,
+   "Probability": 0.94,
+   "Label": 1,
+   "SOC_code": "13-2011",
+   "Occupation": "Accountants and Auditors"
+ },
+ {
+   "Rank": 590,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "51-4032",
+   "Occupation": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 591,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "43-9051",
+   "Occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service"
+ },
+ {
+   "Rank": 592,
+   "Probability": 0.94,
+   "Label": 0,
+   "SOC_code": "35-3031",
+   "Occupation": "Waiters and Waitresses"
+ },
+ {
+   "Rank": 593,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "51-3022",
+   "Occupation": "Meat, Poultry, and Fish Cutters and Trimmers"
+ },
+ {
+   "Rank": 594,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "13-2031",
+   "Occupation": "Budget Analysts"
+ },
+ {
+   "Rank": 595,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "47-2051",
+   "Occupation": "Cement Masons and Concrete Finishers"
+ },
+ {
+   "Rank": 596,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "49-3091",
+   "Occupation": "Bicycle Repairers"
+ },
+ {
+   "Rank": 597,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "49-9091",
+   "Occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers"
+ },
+ {
+   "Rank": 598,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "51-4121",
+   "Occupation": "Welders, Cutters, Solderers, and Brazers"
+ },
+ {
+   "Rank": 599,
+   "Probability": 0.94,
+   "Label": 1,
+   "SOC_code": "43-5021",
+   "Occupation": "Couriers and Messengers"
+ },
+ {
+   "Rank": 600,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "43-4111",
+   "Occupation": "Interviewers, Except Eligibility and Loan"
+ },
+ {
+   "Rank": 601,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "35-2015",
+   "Occupation": "Cooks, Short Order"
+ },
+ {
+   "Rank": 602,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "53-7032",
+   "Occupation": "Excavating and Loading Machine and Dragline Operators"
+ },
+ {
+   "Rank": 603,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "47-3014",
+   "Occupation": "Helpers-Painters, Paperhangers, Plasterers, and Stucco Masons"
+ },
+ {
+   "Rank": 604,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "43-4081",
+   "Occupation": "Hotel, Motel, and Resort Desk Clerks"
+ },
+ {
+   "Rank": 605,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "51-9197",
+   "Occupation": "Tire Builders"
+ },
+ {
+   "Rank": 606,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "41-9091",
+   "Occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related\nWorkers"
+ },
+ {
+   "Rank": 607,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "37-1011",
+   "Occupation": "First-Line Supervisors of Housekeeping and Janitorial Workers"
+ },
+ {
+   "Rank": 608,
+   "Probability": 0.94,
+   "Label": null,
+   "SOC_code": "45-2011",
+   "Occupation": "Agricultural Inspectors"
+ },
+ {
+   "Rank": 609,
+   "Probability": 0.94,
+   "Label": 1,
+   "SOC_code": "23-2011",
+   "Occupation": "Paralegals and Legal Assistants"
+ },
+ {
+   "Rank": 610,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "39-5092",
+   "Occupation": "Manicurists and Pedicurists"
+ },
+ {
+   "Rank": 611,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "43-5111",
+   "Occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+ },
+ {
+   "Rank": 612,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "51-6062",
+   "Occupation": "Textile Cutting Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 613,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "43-3011",
+   "Occupation": "Bill and Account Collectors"
+ },
+ {
+   "Rank": 614,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "51-8011",
+   "Occupation": "Nuclear Power Reactor Operators"
+ },
+ {
+   "Rank": 615,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "33-9031",
+   "Occupation": "Gaming Surveillance Officers and Gaming Investigators"
+ },
+ {
+   "Rank": 616,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "43-4121",
+   "Occupation": "Library Assistants, Clerical"
+ },
+ {
+   "Rank": 617,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "47-2073",
+   "Occupation": "Operating Engineers and Other Construction Equipment Operators"
+ },
+ {
+   "Rank": 618,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "51-5113",
+   "Occupation": "Print Binding and Finishing Workers"
+ },
+ {
+   "Rank": 619,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "45-2021",
+   "Occupation": "Animal Breeders"
+ },
+ {
+   "Rank": 620,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "51-4072",
+   "Occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 621,
+   "Probability": 0.95,
+   "Label": 1,
+   "SOC_code": "51-2022",
+   "Occupation": "Electrical and Electronic Equipment Assemblers"
+ },
+ {
+   "Rank": 622,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "51-9191",
+   "Occupation": "Adhesive Bonding Machine Operators and Tenders"
+ },
+ {
+   "Rank": 623,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "37-3011",
+   "Occupation": "Landscaping and Groundskeeping Workers"
+ },
+ {
+   "Rank": 624,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "51-4033",
+   "Occupation": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 625,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "43-5051",
+   "Occupation": "Postal Service Clerks"
+ },
+ {
+   "Rank": 626,
+   "Probability": 0.95,
+   "Label": null,
+   "SOC_code": "51-9071",
+   "Occupation": "Jewelers and Precious Stone and Metal Workers"
+ },
+ {
+   "Rank": 627,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "43-5032",
+   "Occupation": "Dispatchers, Except Police, Fire, and Ambulance"
+ },
+ {
+   "Rank": 628,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "43-4171",
+   "Occupation": "Receptionists and Information Clerks"
+ },
+ {
+   "Rank": 629,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "43-9061",
+   "Occupation": "Office Clerks, General"
+ },
+ {
+   "Rank": 630,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "11-3111",
+   "Occupation": "Compensation and Benefits Managers"
+ },
+ {
+   "Rank": 631,
+   "Probability": 0.96,
+   "Label": 1,
+   "SOC_code": "43-2011",
+   "Occupation": "Switchboard Operators, Including Answering Service"
+ },
+ {
+   "Rank": 632,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "35-3022",
+   "Occupation": "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
+ },
+ {
+   "Rank": 633,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "47-5051",
+   "Occupation": "Rock Splitters, Quarry"
+ },
+ {
+   "Rank": 634,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "43-6014",
+   "Occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+ },
+ {
+   "Rank": 635,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "17-3031",
+   "Occupation": "Surveying and Mapping Technicians"
+ },
+ {
+   "Rank": 636,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "51-7031",
+   "Occupation": "Model Makers, Wood"
+ },
+ {
+   "Rank": 637,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "51-6064",
+   "Occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 638,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "53-4011",
+   "Occupation": "Locomotive Engineers"
+ },
+ {
+   "Rank": 639,
+   "Probability": 0.96,
+   "Label": 1,
+   "SOC_code": "39-3011",
+   "Occupation": "Gaming Dealers"
+ },
+ {
+   "Rank": 640,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "49-9093",
+   "Occupation": "Fabric Menders, Except Garment"
+ },
+ {
+   "Rank": 641,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "35-2014",
+   "Occupation": "Cooks, Restaurant"
+ },
+ {
+   "Rank": 642,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "39-3031",
+   "Occupation": "Ushers, Lobby Attendants, and Ticket Takers"
+ },
+ {
+   "Rank": 643,
+   "Probability": 0.96,
+   "Label": null,
+   "SOC_code": "43-3021",
+   "Occupation": "Billing and Posting Clerks"
+ },
+ {
+   "Rank": 644,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "53-6011",
+   "Occupation": "Bridge and Lock Tenders"
+ },
+ {
+   "Rank": 645,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-7042",
+   "Occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+ },
+ {
+   "Rank": 646,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-2092",
+   "Occupation": "Team Assemblers"
+ },
+ {
+   "Rank": 647,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-6042",
+   "Occupation": "Shoe Machine Operators and Tenders"
+ },
+ {
+   "Rank": 648,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-2023",
+   "Occupation": "Electromechanical Equipment Assemblers"
+ },
+ {
+   "Rank": 649,
+   "Probability": 0.97,
+   "Label": 1,
+   "SOC_code": "13-1074",
+   "Occupation": "Farm Labor Contractors"
+ },
+ {
+   "Rank": 650,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-6061",
+   "Occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders"
+ },
+ {
+   "Rank": 651,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-9081",
+   "Occupation": "Dental Laboratory Technicians"
+ },
+ {
+   "Rank": 652,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-9021",
+   "Occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+ },
+ {
+   "Rank": 653,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-9022",
+   "Occupation": "Grinding and Polishing Workers, Hand"
+ },
+ {
+   "Rank": 654,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "37-3012",
+   "Occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+ },
+ {
+   "Rank": 655,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "45-4023",
+   "Occupation": "Log Graders and Scalers"
+ },
+ {
+   "Rank": 656,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-9083",
+   "Occupation": "Ophthalmic Laboratory Technicians"
+ },
+ {
+   "Rank": 657,
+   "Probability": 0.97,
+   "Label": 1,
+   "SOC_code": "41-2011",
+   "Occupation": "Cashiers"
+ },
+ {
+   "Rank": 658,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "49-9061",
+   "Occupation": "Camera and Photographic Equipment Repairers"
+ },
+ {
+   "Rank": 659,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "39-3021",
+   "Occupation": "Motion Picture Projectionists"
+ },
+ {
+   "Rank": 660,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "51-5111",
+   "Occupation": "Prepress Technicians and Workers"
+ },
+ {
+   "Rank": 661,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "41-2021",
+   "Occupation": "Counter and Rental Clerks"
+ },
+ {
+   "Rank": 662,
+   "Probability": 0.97,
+   "Label": 1,
+   "SOC_code": "43-4071",
+   "Occupation": "File Clerks"
+ },
+ {
+   "Rank": 663,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "41-9021",
+   "Occupation": "Real Estate Brokers"
+ },
+ {
+   "Rank": 664,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "43-2021",
+   "Occupation": "Telephone Operators"
+ },
+ {
+   "Rank": 665,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "19-4011",
+   "Occupation": "Agricultural and Food Science Technicians"
+ },
+ {
+   "Rank": 666,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "43-3051",
+   "Occupation": "Payroll and Timekeeping Clerks"
+ },
+ {
+   "Rank": 667,
+   "Probability": 0.97,
+   "Label": 1,
+   "SOC_code": "43-4041",
+   "Occupation": "Credit Authorizers, Checkers, and Clerks"
+ },
+ {
+   "Rank": 668,
+   "Probability": 0.97,
+   "Label": null,
+   "SOC_code": "35-9031",
+   "Occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+ },
+ {
+   "Rank": 669,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "41-9012",
+   "Occupation": "Models"
+ },
+ {
+   "Rank": 670,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "51-9061",
+   "Occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers"
+ },
+ {
+   "Rank": 671,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "43-3031",
+   "Occupation": "Bookkeeping, Accounting, and Auditing Clerks"
+ },
+ {
+   "Rank": 672,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "43-6012",
+   "Occupation": "Legal Secretaries"
+ },
+ {
+   "Rank": 673,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "27-4013",
+   "Occupation": "Radio Operators"
+ },
+ {
+   "Rank": 674,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "53-3031",
+   "Occupation": "Driver/Sales Workers"
+ },
+ {
+   "Rank": 675,
+   "Probability": 0.98,
+   "Label": 1,
+   "SOC_code": "13-1031",
+   "Occupation": "Claims Adjusters, Examiners, and Investigators"
+ },
+ {
+   "Rank": 676,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "41-2022",
+   "Occupation": "Parts Salespersons"
+ },
+ {
+   "Rank": 677,
+   "Probability": 0.98,
+   "Label": 1,
+   "SOC_code": "13-2041",
+   "Occupation": "Credit Analysts"
+ },
+ {
+   "Rank": 678,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "51-4035",
+   "Occupation": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+ },
+ {
+   "Rank": 679,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "43-5071",
+   "Occupation": "Shipping, Receiving, and Traffic Clerks"
+ },
+ {
+   "Rank": 680,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "43-3061",
+   "Occupation": "Procurement Clerks"
+ },
+ {
+   "Rank": 681,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "51-9111",
+   "Occupation": "Packaging and Filling Machine Operators and Tenders"
+ },
+ {
+   "Rank": 682,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "51-9194",
+   "Occupation": "Etchers and Engravers"
+ },
+ {
+   "Rank": 683,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "43-3071",
+   "Occupation": "Tellers"
+ },
+ {
+   "Rank": 684,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "27-2023",
+   "Occupation": "Umpires, Referees, and Other Sports Officials"
+ },
+ {
+   "Rank": 685,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "13-1032",
+   "Occupation": "Insurance Appraisers, Auto Damage"
+ },
+ {
+   "Rank": 686,
+   "Probability": 0.98,
+   "Label": 1,
+   "SOC_code": "13-2072",
+   "Occupation": "Loan Officers"
+ },
+ {
+   "Rank": 687,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "43-4151",
+   "Occupation": "Order Clerks"
+ },
+ {
+   "Rank": 688,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "43-4011",
+   "Occupation": "Brokerage Clerks"
+ },
+ {
+   "Rank": 689,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "43-9041",
+   "Occupation": "Insurance Claims and Policy Processing Clerks"
+ },
+ {
+   "Rank": 690,
+   "Probability": 0.98,
+   "Label": null,
+   "SOC_code": "51-2093",
+   "Occupation": "Timing Device Assemblers and Adjusters"
+ },
+ {
+   "Rank": 691,
+   "Probability": 0.99,
+   "Label": 1,
+   "SOC_code": "43-9021",
+   "Occupation": "Data Entry Keyers"
+ },
+ {
+   "Rank": 692,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "25-4031",
+   "Occupation": "Library Technicians"
+ },
+ {
+   "Rank": 693,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "43-4141",
+   "Occupation": "New Accounts Clerks"
+ },
+ {
+   "Rank": 694,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "51-9151",
+   "Occupation": "Photographic Process Workers and Processing Machine Operators"
+ },
+ {
+   "Rank": 695,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "13-2082",
+   "Occupation": "Tax Preparers"
+ },
+ {
+   "Rank": 696,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "43-5011",
+   "Occupation": "Cargo and Freight Agents"
+ },
+ {
+   "Rank": 697,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "49-9064",
+   "Occupation": "Watch Repairers"
+ },
+ {
+   "Rank": 698,
+   "Probability": 0.99,
+   "Label": 1,
+   "SOC_code": "13-2053",
+   "Occupation": "Insurance Underwriters"
+ },
+ {
+   "Rank": 699,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "15-2091",
+   "Occupation": "Mathematical Technicians"
+ },
+ {
+   "Rank": 700,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "51-6051",
+   "Occupation": "Sewers, Hand"
+ },
+ {
+   "Rank": 701,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "23-2093",
+   "Occupation": "Title Examiners, Abstractors, and Searchers"
+ },
+ {
+   "Rank": 702,
+   "Probability": 0.99,
+   "Label": null,
+   "SOC_code": "41-9041",
+   "Occupation": "Telemarketers"
+ }
+]

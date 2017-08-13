@@ -1,0 +1,117 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Web Speech API Test</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <script src="https://aframe.io/releases/0.6.0/aframe.min.js"></script>
+</head>
+<script>
+AFRAME.registerComponent('nextseq', {
+    schema: {
+    },
+    init: function() {
+        var data = this.data;
+        this.el.addEventListener('click', function() {
+          ind++;
+          sky = document.getElementById("sky");
+          if (ind<imgs.length){
+          sky.setAttribute("src", '360/'+imgs[ind]);
+            //console.log('Number of seq='+seq+'Number total de seq:'+storyG.length);
+          }
+        });
+        this.el.addEventListener('mouseleave', function() {
+          button = document.getElementById("buttonforward");
+          button.setAttribute("material", "color:gray; opacity:0.4");
+
+        });
+        this.el.addEventListener('mouseenter', function() {
+          button = document.getElementById("buttonforward");
+          button.setAttribute("material", "color:gray; opacity:1");
+
+        });
+    }
+});
+AFRAME.registerComponent('prevseq', {
+    schema: {
+    },
+    init: function() {
+        var data = this.data;
+        this.el.addEventListener('click', function() {
+          ind--;
+          sky = document.getElementById("sky");
+          if (ind<imgs.length){
+          sky.setAttribute("src", '360/'+imgs[ind]);
+            //console.log('Number of seq='+seq+'Number total de seq:'+storyG.length);
+          }
+        });
+        this.el.addEventListener('mouseleave', function() {
+          button = document.getElementById("buttonbackward");
+          button.setAttribute("material", "color:gray; opacity:0.4");
+
+        });
+        this.el.addEventListener('mouseenter', function() {
+          button = document.getElementById("buttonbackward");
+          button.setAttribute("material", "color:gray; opacity:1");
+
+        });
+    }
+});
+</script>
+
+<body>
+
+
+    <a-scene id="vr" class="fullscreen" canvas="" inspector="" color="#000000" keyboard-shortcuts="" screenshot="" vr-mode-ui="">
+        <a-camera position="0 0 0">
+        <a-entity cursor="fuse: true; fuseTimeout:900"
+          position="0 0 -1"
+          scale="0.02 0.02 0.02"
+          geometry="primitive: ring"
+          material="color: #E94E1B; shader: flat">
+          <a-animation begin="click" easing="ease-in" attribute="scale"
+               fill="backwards" from="0.05 0.05 0.05" to="0.01 0.01 0.01"></a-animation>
+          <a-animation begin="cursor-fusing" easing="ease-in" attribute="scale"
+               fill="backwards" from="0.02 0.02 0.02" to="0.05 0.05 0.05"></a-animation>
+          </a-entity>
+        </a-camera>
+
+         <a-sky id="sky" src="media/equi_start.jpg" material="opacity:1" rotation="0 -6 0.5" >
+                </a-sky>
+
+
+      <a-entity id ="buttonforward"
+      geometry="radiusInner:0.01; segmentsTheta:2; segmentsPhi:12;
+      radiusOuter:2; primitive:ring;"
+      material="color:gray; opacity:0.4"
+      position="0.1 2 -2"
+      scale="0.06 0.06 0.06"
+      text="align:center; value:+; width:13;color:#FFFFFF"
+      nextseq>
+      </a-entity>
+      <a-entity id ="buttonbackward"
+      geometry="radiusInner:0.01; segmentsTheta:2; segmentsPhi:12;
+      radiusOuter:2; primitive:ring;"
+      material="color:gray; opacity:0.4"
+      rotation="0 0 180"
+      position="-0.1 2 -2"
+      scale="0.06 0.06 0.06"
+      text="align:center; value:-; width:13;color:#FFFFFF"
+      prevseq>
+      </a-entity>
+
+      <a-curvedimage src="http://animals.sandiegozoo.org/sites/default/files/2016-09/Gorilla_ZN.jpg" height="3.0" radius="5.7" theta-length="72"
+                 position="0 1 0" rotation="0 0 0" scale="0.8 0.8 0.8"></a-curvedimage>
+
+      <a-entity id="planetext" position="0 2.5 -2"
+      geometry="width:2;height:0.6;primitive:plane;"
+      material="color: gray; opacity:0.7"
+      opacity=""
+      text="value: It was a typical day of 1976. 189 people were living every square meter. Most of them were working, worried about 'People in Sports Top N.F.L. Rookie Honors Go to Sammy White, Haynes'.; width:2">
+      </a-entity>
+
+
+    </a-scene>
+  <script src="test.js" type="text/javascript"></script>
+
+</body>
+</html>

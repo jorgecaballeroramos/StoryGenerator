@@ -1,0 +1,80 @@
+@font-face {
+   font-family: biro;
+   /*src: url(font/Biro_Script_reduced.ttf); I LIKE IT*/
+   /*src: url(font/Handlee-Regular.ttf);*/
+   /*src: url(font/ShortStack-Regular.ttf);*/
+   src: url(font/WaitingfortheSunrise.ttf);
+   /*src: url(font/IndieFlower.ttf);*/
+
+}
+
+.intro {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,50,100,0.9);
+  z-index: 10005;
+  -webkit-transition: opacity 2s ease-in,visibility 0s linear 2s;
+  transition: opacity 2s ease-in,visibility 0s linear 2s;
+  color: #fff;
+  text-align: center;
+  font-size: 1em;
+  overflow-y: scroll;
+}
+
+.intro__inner {
+  min-height: 100%;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+.intro__icon {
+  margin-bottom: 1rem;
+}
+
+.intro__icon img {
+  max-width: 100%;
+}
+
+
+.intro__heading {
+  font-family: biro;
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  line-height: 1.4;
+  margin-bottom: 1rem;
+}
+
+.intro__dek {
+  font-family: biro;
+  font-size: 1.1em;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+
+}
+
+.button {
+  font-family: Helvetica;
+  cursor: pointer;
+  border: 0;
+  background-color: #E94E1B;
+  color: #fff;
+  padding: 0.8rem 1.7rem;
+  font-size: 1em;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+
+img.top {
+    vertical-align: middle;
+}
